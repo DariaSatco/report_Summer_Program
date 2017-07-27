@@ -1,0 +1,49 @@
+\documentclass[a4paper,12pt]{article}         % класс документа - статья. Также report, book и др.
+\usepackage{geometry}           % пакет для задания полей страницы командой \geometry
+\geometry{left=2cm,right=2cm,top=1.5cm,bottom=1.5cm}
+\usepackage[cp1251]{inputenc}   % кодировка текста
+\usepackage{mathtext}           % позволяет использовать русские буквы в формулах
+\usepackage[T2A]{fontenc}       %пакет Т2А необходим для правильного отображения кириллицы и переноса слов
+%\inputencoding{cp1251}          % тоже кодировка...
+%\usepackage[russian]{babel}     % языковой пакет - последний язык главный
+%\usepackage[unicode]{hyperref}  %создаёт гиперссылки на список литературы в pdf-файле
+\usepackage{amstext,amsmath,amssymb}            % пакеты для формул
+\usepackage{bm}                 % boldmath - пакет для жирного шрифта
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{amsfonts}           % греческие символы и, возможно, что-то ещё
+\usepackage{indentfirst}        % одинаковый отступ для первого параграфа и всего остального
+\usepackage{cite}               % команда /cite{1,2,7,9} даёт ссылки
+\usepackage{multirow}           % пакет для объединения строк в таблице: надо указать число строк и ширину столбца
+\usepackage{array}              % нужен для создания таблиц
+\linespread{1.5}                % полтора интервала. Если 1.6, то два интервала
+\pagestyle{plain}               % номерует страницы
+
+\begin{document}
+
+\title{Search for Sphalerons in Proton-Proton Collisions}
+
+\author{Satco Daria \\
+Supervisor: Simone Amoroso \\
+\\
+{\normalsize CERN Summer Student Programme}
+}
+
+\date{}
+
+\maketitle
+
+\begin{abstract}
+In view of new possibilities becoming more realistic with FCC design and of recent promising results regarding $B+L$ violating processes detection we concentrated our research on generation and analysis of sphaleron transitions. Since the Standard Model still remains valid for most fundamental interactions the Sphaleron study is of current importance providing the missing explanation of baryon-antibaryon asymmetry. The existence of instanton and sphaleron solutions, which are associated with transitions between different vacuum states is well known since 1980s \cite{klinkhamer, kuzmin}. 
+\end{abstract}
+
+\section{Introduction}
+
+
+\begin{thebibliography}{9}
+\bibitem{klinkhamer} F. R. Klinkhamer and N. S. Manton, "A saddle-point solution in the Weinberg-Salam theory", Phys. Rev. D \textbf{30}, 2212 (1984).
+\bibitem{kuzmin} V.A.Kuzmin, V.A.Rubakov, "On anomalous electroweak baryon-number non-conservation in the early universe", Physics Letters B \textbf{155}, 36-42 (1985).
+
+\end{thebibliography}
+
+\end{document}
