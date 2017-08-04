@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  4 AUG 2017 09:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  4 AUG 2017 17:27
 entering extended mode
 **D:/учёба/CERN/report/report_in_tex/report_Cern.tex
 (D:/учёба/CERN/report/report_in_tex/report_Cern.tex
@@ -255,7 +255,11 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \extratabsurround=\skip46
 \backup@length=\skip47
 )
-(D:\учёба\CERN\report\report_in_tex\report_Cern.aux)
+(D:\учёба\CERN\report\report_in_tex\report_Cern.aux
+
+LaTeX Warning: Label `ris:multi-w-cross' multiply defined.
+
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
@@ -387,36 +391,83 @@ n-man di-a-grams (is non-perturbative),
  []
 
 [2 <D:/учёба/CERN/report/report_in_tex/plot_energy1.jpg> <D:/учёба/CE
-RN/report/report_in_tex/sphaleron1.jpg>] [3] [4] [5]
-(D:\учёба\CERN\report\report_in_tex\report_Cern.aux) ) 
+RN/report/report_in_tex/sphaleron1.jpg>] [3]
+<pdfdiffTev.jpg, id=31, 260.975pt x 161.60374pt>
+File: pdfdiffTev.jpg Graphic file (type jpg)
+ <use pdfdiffTev.jpg>
+Package pdftex.def Info: pdfdiffTev.jpg used on input line 128.
+(pdftex.def)             Requested size: 338.58632pt x 209.66563pt.
+Package epstopdf Info: Source file: <mult-w.eps>
+(epstopdf)                    date: 2017-08-04 17:13:12
+(epstopdf)                    size: 23868 bytes
+(epstopdf)             Output file: <mult-w-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-04 17:20:53
+(epstopdf)                    size: 4317 bytes
+(epstopdf)             Command: <epstopdf --outfile=mult-w-eps-converted-to.pdf
+ mult-w.eps>
+(epstopdf)             \includegraphics on input line 140.
+Package epstopdf Info: Output file is already uptodate.
+
+<mult-w-eps-converted-to.pdf, id=32, 505.89pt x 722.7pt>
+File: mult-w-eps-converted-to.pdf Graphic file (type pdf)
+
+<use mult-w-eps-converted-to.pdf>
+Package pdftex.def Info: mult-w-eps-converted-to.pdf used on input line 140.
+(pdftex.def)             Requested size: 165.90915pt x 237.01404pt.
+Package epstopdf Info: Source file: <tops-bosons.eps>
+(epstopdf)                    date: 2017-08-04 17:14:09
+(epstopdf)                    size: 24557 bytes
+(epstopdf)             Output file: <tops-bosons-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-04 17:20:54
+(epstopdf)                    size: 4582 bytes
+(epstopdf)             Command: <epstopdf --outfile=tops-bosons-eps-converted-t
+o.pdf tops-bosons.eps>
+(epstopdf)             \includegraphics on input line 146.
+Package epstopdf Info: Output file is already uptodate.
+
+<tops-bosons-eps-converted-to.pdf, id=33, 505.89pt x 722.7pt>
+File: tops-bosons-eps-converted-to.pdf Graphic file (type pdf)
+
+<use tops-bosons-eps-converted-to.pdf>
+Package pdftex.def Info: tops-bosons-eps-converted-to.pdf used on input line 14
+6.
+(pdftex.def)             Requested size: 165.90915pt x 237.01404pt.
+ [4] [5 <D:/учёба/CERN/report/report_in_tex/pdfdiffTev.jpg> <D:/учёба
+/CERN/report/report_in_tex/mult-w-eps-converted-to.pdf> <D:/учёба/CERN/rep
+ort/report_in_tex/tops-bosons-eps-converted-to.pdf>] [6] (D:\учёба\CERN\re
+port\report_in_tex\report_Cern.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3876 strings out of 493921
- 51076 string characters out of 3150556
- 109780 words of memory out of 3000000
- 7065 multiletter control sequences out of 15000+200000
+ 3894 strings out of 493921
+ 51508 string characters out of 3150556
+ 109835 words of memory out of 3000000
+ 7079 multiletter control sequences out of 15000+200000
  28586 words of font info for 82 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 42i,8n,26p,1208b,318s stack positions out of 5000i,500n,10000p,200000b,50000s
-{E:/miktex/Full_TeX/
-texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<E:/miktex/Full_TeX/texmf/fonts
-/type1/public/amsfonts/cm/cmex10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/publ
-ic/amsfonts/cm/cmmi10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts
-/cm/cmmi12.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmmi6.p
-fb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmmi8.pfb><E:/mikte
-x/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/miktex/Full_TeX/t
-exmf/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/miktex/Full_TeX/texmf/fonts/t
-ype1/public/amsfonts/cm/cmr6.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/a
-msfonts/cm/cmr8.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:
-/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1095.pfb><E:/miktex/Full
-_TeX/texmf/fonts/type1/public/cm-super/sfbx1200.pfb><E:/miktex/Full_TeX/texmf/f
-onts/type1/public/cm-super/sfbx1728.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/p
-ublic/cm-super/sfrm1095.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-sup
-er/sfrm1200.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfrm1440.
-pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on report_Cern.pdf (5 pages, 286873 bytes).
+ 42i,9n,26p,1208b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
+{E:/miktex/Full_TeX/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<E:/mikte
+x/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmex10.pfb><E:/miktex/Full_TeX/
+texmf/fonts/type1/public/amsfonts/cm/cmmi10.pfb><E:/miktex/Full_TeX/texmf/fonts
+/type1/public/amsfonts/cm/cmmi12.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/publ
+ic/amsfonts/cm/cmmi6.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/miktex/
+Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr6.pfb><E:/miktex/Full_TeX/texm
+f/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/miktex/Full_TeX/texmf/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/ams
+fonts/cm/cmsy8.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx10
+95.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1200.pfb><E:/m
+iktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1728.pfb><E:/miktex/Full_T
+eX/texmf/fonts/type1/public/cm-super/sfrm1095.pfb><E:/miktex/Full_TeX/texmf/fon
+ts/type1/public/cm-super/sfrm1200.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/pub
+lic/cm-super/sfrm1440.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super
+/sfrm2074.pfb>
+Output written on report_Cern.pdf (6 pages, 308561 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
+ 105 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -124,7 +124,24 @@ q_1 + q_2 \rightarrow q_3 + q_4 + n_B W(Z) + n_H H
 \end{equation}
 \end{itemize}
 In our simulation we used parton distributions from LHAPDF (3 different sets were examined and it was proved that the difference in results is negligible), normal distributed boson number (the parameters calculation is described in \cite{herbvi}). We would like to discuss the third item - multi-W process generation. Since the main principles of the generation remain the same, the results for multi-W are similar to the sphaleron with the expected difference in lepton and jets multiplicity (see (\ref{sphaleron_reaction},\ref{multi-w_reaction}). It is natural to consider the multi-W processes as the background for sphaleron signal, but it was shown \cite{multi-higgs},\cite{sm_at_fcc} that the cross section for multi-bosons processes is infinitely small, that provides us the possibility to consider zero background starting from the certain boson number. Another background process is perturbative one - multiple top quark production (each t quark decays into W boson and b-quark jet). 
+\section{Simulation results}
+
+
 \section{Cross section limits}
+
+\begin{figure}[t]
+\begin{minipage}[h]{0.49\linewidth}
+\center{\includegraphics[width=1\linewidth]{mult-w.eps}}
+\caption{The dependence of multi-W process cross sections on number of Ws for different energies}
+\label{ris:multi-w-cross}
+\end{minipage}
+\hfill
+\begin{minipage}[h]{0.49\linewidth}
+\center{\includegraphics[width=0.8\linewidth]{tops-bosons.eps}}
+\caption{The dependence of different multi-top process cross sections on energy}
+\label{ris:top-boson-cross}
+\end{minipage}
+\end{figure}
 
 \section{Conclusions}
 
