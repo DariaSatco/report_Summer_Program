@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  27 JUL 2017 17:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  4 AUG 2017 09:22
 entering extended mode
 **D:/учёба/CERN/report/report_in_tex/report_Cern.tex
 (D:/учёба/CERN/report/report_in_tex/report_Cern.tex
@@ -387,16 +387,16 @@ n-man di-a-grams (is non-perturbative),
  []
 
 [2 <D:/учёба/CERN/report/report_in_tex/plot_energy1.jpg> <D:/учёба/CE
-RN/report/report_in_tex/sphaleron1.jpg>] [3] [4]
+RN/report/report_in_tex/sphaleron1.jpg>] [3] [4] [5]
 (D:\учёба\CERN\report\report_in_tex\report_Cern.aux) ) 
 Here is how much of TeX's memory you used:
- 3871 strings out of 493921
- 51018 string characters out of 3150556
- 109757 words of memory out of 3000000
- 7060 multiletter control sequences out of 15000+200000
+ 3876 strings out of 493921
+ 51076 string characters out of 3150556
+ 109780 words of memory out of 3000000
+ 7065 multiletter control sequences out of 15000+200000
  28586 words of font info for 82 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 42i,8n,26p,1121b,318s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,8n,26p,1208b,318s stack positions out of 5000i,500n,10000p,200000b,50000s
 {E:/miktex/Full_TeX/
 texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<E:/miktex/Full_TeX/texmf/fonts
 /type1/public/amsfonts/cm/cmex10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/publ
@@ -414,9 +414,9 @@ onts/type1/public/cm-super/sfbx1728.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/p
 ublic/cm-super/sfrm1095.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-sup
 er/sfrm1200.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfrm1440.
 pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on report_Cern.pdf (4 pages, 281120 bytes).
+Output written on report_Cern.pdf (5 pages, 286873 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
+ 93 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
