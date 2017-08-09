@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  9 AUG 2017 15:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  9 AUG 2017 16:28
 entering extended mode
 **D:/учёба/CERN/report/report_in_tex/report_Cern.tex
 (D:/учёба/CERN/report/report_in_tex/report_Cern.tex
@@ -370,13 +370,13 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 <plot_energy1.jpg, id=1, 660.21657pt x 352.31625pt>
 File: plot_energy1.jpg Graphic file (type jpg)
  <use plot_energy1.jpg>
-Package pdftex.def Info: plot_energy1.jpg used on input line 63.
+Package pdftex.def Info: plot_energy1.jpg used on input line 50.
 (pdftex.def)             Requested size: 237.01411pt x 126.47894pt.
 
 <sphaleron1.jpg, id=2, 243.15843pt x 184.43906pt>
 File: sphaleron1.jpg Graphic file (type jpg)
  <use sphaleron1.jpg>
-Package pdftex.def Info: sphaleron1.jpg used on input line 69.
+Package pdftex.def Info: sphaleron1.jpg used on input line 56.
 (pdftex.def)             Requested size: 189.61201pt x 143.82248pt.
  [1
 
@@ -386,26 +386,31 @@ haleron1.jpg>] <M_eff_jets.png, id=28, 451.6875pt x 408.52625pt>
 File: M_eff_jets.png Graphic file (type png)
 
 <use M_eff_jets.png>
-Package pdftex.def Info: M_eff_jets.png used on input line 113.
+Package pdftex.def Info: M_eff_jets.png used on input line 101.
 (pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
  <leptons-iproc.png, id=30, 451.6875pt x 408.52625pt>
 File: leptons-iproc.png Graphic file (type png)
 
 <use leptons-iproc.png>
-Package pdftex.def Info: leptons-iproc.png used on input line 119.
-(pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
- [3]
-<leptons-lome.png, id=34, 451.6875pt x 408.52625pt>
-File: leptons-lome.png Graphic file (type png)
- <use leptons-lome.png>
-Package pdftex.def Info: leptons-lome.png used on input line 128.
+Package pdftex.def Info: leptons-iproc.png used on input line 107.
 (pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
 
-<leptons-fixed.png, id=35, 451.6875pt x 408.52625pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<leptons-lome.png, id=31, 451.6875pt x 408.52625pt>
+File: leptons-lome.png Graphic file (type png)
+ <use leptons-lome.png>
+Package pdftex.def Info: leptons-lome.png used on input line 116.
+(pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
+
+<leptons-fixed.png, id=32, 451.6875pt x 408.52625pt>
 File: leptons-fixed.png Graphic file (type png)
  <use leptons-fixed.png>
-Package pdftex.def Info: leptons-fixed.png used on input line 134.
+Package pdftex.def Info: leptons-fixed.png used on input line 122.
 (pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
+
+[3]
 Package epstopdf Info: Source file: <mult-w1.eps>
 (epstopdf)                    date: 2017-08-07 17:57:54
 (epstopdf)                    size: 24485 bytes
@@ -414,14 +419,13 @@ Package epstopdf Info: Source file: <mult-w1.eps>
 (epstopdf)                    size: 4355 bytes
 (epstopdf)             Command: <epstopdf --outfile=mult-w1-eps-converted-to.pd
 f mult-w1.eps>
-(epstopdf)             \includegraphics on input line 146.
+(epstopdf)             \includegraphics on input line 134.
 Package epstopdf Info: Output file is already uptodate.
-
-<mult-w1-eps-converted-to.pdf, id=36, 505.89pt x 722.7pt>
+ <mult-w1-eps-converted-to.pdf, id=36, 505.89pt x 722.7pt>
 File: mult-w1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use mult-w1-eps-converted-to.pdf>
-Package pdftex.def Info: mult-w1-eps-converted-to.pdf used on input line 146.
+Package pdftex.def Info: mult-w1-eps-converted-to.pdf used on input line 134.
 (pdftex.def)             Requested size: 165.90915pt x 237.01404pt.
 Package epstopdf Info: Source file: <tops-bosons1.eps>
 (epstopdf)                    date: 2017-08-07 18:37:01
@@ -431,7 +435,7 @@ Package epstopdf Info: Source file: <tops-bosons1.eps>
 (epstopdf)                    size: 6398 bytes
 (epstopdf)             Command: <epstopdf --outfile=tops-bosons1-eps-converted-
 to.pdf tops-bosons1.eps>
-(epstopdf)             \includegraphics on input line 152.
+(epstopdf)             \includegraphics on input line 140.
 Package epstopdf Info: Output file is already uptodate.
 
 <tops-bosons1-eps-converted-to.pdf, id=37, 505.89pt x 722.7pt>
@@ -439,7 +443,7 @@ File: tops-bosons1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use tops-bosons1-eps-converted-to.pdf>
 Package pdftex.def Info: tops-bosons1-eps-converted-to.pdf used on input line 1
-52.
+40.
 (pdftex.def)             Requested size: 165.90915pt x 237.01404pt.
  [4 <D:/учёба/CERN/report/report_in_tex/M_eff_jets.png> <D:/учёба/CER
 N/report/report_in_tex/leptons-iproc.png> <D:/учёба/CERN/report/report_in_
@@ -449,10 +453,10 @@ D:/учёба/CERN/report/report_in_tex/tops-bosons1-eps-converted-to.pdf>] [6]
 
 (D:\учёба\CERN\report\report_in_tex\report_Cern.aux) ) 
 Here is how much of TeX's memory you used:
- 3911 strings out of 493921
- 51832 string characters out of 3150556
- 109735 words of memory out of 3000000
- 7092 multiletter control sequences out of 15000+200000
+ 3907 strings out of 493921
+ 51794 string characters out of 3150556
+ 110702 words of memory out of 3000000
+ 7088 multiletter control sequences out of 15000+200000
  28586 words of font info for 82 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  42i,10n,26p,1457b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -473,7 +477,7 @@ onts/type1/public/cm-super/sfbx1728.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/p
 ublic/cm-super/sfrm1095.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-sup
 er/sfrm1200.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfrm1440.
 pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on report_Cern.pdf (6 pages, 518290 bytes).
+Output written on report_Cern.pdf (6 pages, 512585 bytes).
 PDF statistics:
  113 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
