@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  4 AUG 2017 17:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  9 AUG 2017 15:28
 entering extended mode
 **D:/учёба/CERN/report/report_in_tex/report_Cern.tex
 (D:/учёба/CERN/report/report_in_tex/report_Cern.tex
@@ -255,25 +255,21 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \extratabsurround=\skip46
 \backup@length=\skip47
 )
-(D:\учёба\CERN\report\report_in_tex\report_Cern.aux
-
-LaTeX Warning: Label `ris:multi-w-cross' multiply defined.
-
-)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+(D:\учёба\CERN\report\report_in_tex\report_Cern.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -323,151 +319,163 @@ LaTeX Font Info:    ... okay on input line 22.
 \makeMPintoPDFobject=\count108
 \everyMPtoPDFconversion=\toks25
 )
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 34.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 36.
  (E:\miktex\Full_TeX\texmf\tex\latex\base\omlcmr.fd
 File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 34.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 36.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 34.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 36.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 34.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 34.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 36.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 36.
 
 (E:\miktex\Full_TeX\texmf\tex\latex\base\omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
-LaTeX Font Info:    Try loading font information for U+msa on input line 34.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+LaTeX Font Info:    Try loading font information for U+msa on input line 36.
 
 (E:\miktex\Full_TeX\texmf\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 34.
+LaTeX Font Info:    Try loading font information for U+msb on input line 36.
 
 (E:\miktex\Full_TeX\texmf\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 37.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 37.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 37.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 41.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 44.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 44.
 
 <plot_energy1.jpg, id=1, 660.21657pt x 352.31625pt>
 File: plot_energy1.jpg Graphic file (type jpg)
  <use plot_energy1.jpg>
-Package pdftex.def Info: plot_energy1.jpg used on input line 62.
+Package pdftex.def Info: plot_energy1.jpg used on input line 63.
 (pdftex.def)             Requested size: 237.01411pt x 126.47894pt.
 
 <sphaleron1.jpg, id=2, 243.15843pt x 184.43906pt>
 File: sphaleron1.jpg Graphic file (type jpg)
  <use sphaleron1.jpg>
-Package pdftex.def Info: sphaleron1.jpg used on input line 68.
+Package pdftex.def Info: sphaleron1.jpg used on input line 69.
 (pdftex.def)             Requested size: 189.61201pt x 143.82248pt.
  [1
 
-{E:/miktex/Full_TeX/texmf/pdftex/config/pdftex.map}]
-Overfull \hbox (1.08485pt too wide) in paragraph at lines 87--89
-[]\T2A/cmr/m/n/12 The BLNV pro-cess (8[]) can not be de-scribed in terms of Fey
-n-man di-a-grams (is non-perturbative),
- []
+{E:/miktex/Full_TeX/texmf/pdftex/config/pdftex.map}] [2 <D:/учёба/CERN/rep
+ort/report_in_tex/plot_energy1.jpg> <D:/учёба/CERN/report/report_in_tex/sp
+haleron1.jpg>] <M_eff_jets.png, id=28, 451.6875pt x 408.52625pt>
+File: M_eff_jets.png Graphic file (type png)
 
-[2 <D:/учёба/CERN/report/report_in_tex/plot_energy1.jpg> <D:/учёба/CE
-RN/report/report_in_tex/sphaleron1.jpg>] [3]
-<pdfdiffTev.jpg, id=31, 260.975pt x 161.60374pt>
-File: pdfdiffTev.jpg Graphic file (type jpg)
- <use pdfdiffTev.jpg>
-Package pdftex.def Info: pdfdiffTev.jpg used on input line 128.
-(pdftex.def)             Requested size: 338.58632pt x 209.66563pt.
-Package epstopdf Info: Source file: <mult-w.eps>
-(epstopdf)                    date: 2017-08-04 17:13:12
-(epstopdf)                    size: 23868 bytes
-(epstopdf)             Output file: <mult-w-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-08-04 17:20:53
-(epstopdf)                    size: 4317 bytes
-(epstopdf)             Command: <epstopdf --outfile=mult-w-eps-converted-to.pdf
- mult-w.eps>
-(epstopdf)             \includegraphics on input line 140.
-Package epstopdf Info: Output file is already uptodate.
+<use M_eff_jets.png>
+Package pdftex.def Info: M_eff_jets.png used on input line 113.
+(pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
+ <leptons-iproc.png, id=30, 451.6875pt x 408.52625pt>
+File: leptons-iproc.png Graphic file (type png)
 
-<mult-w-eps-converted-to.pdf, id=32, 505.89pt x 722.7pt>
-File: mult-w-eps-converted-to.pdf Graphic file (type pdf)
+<use leptons-iproc.png>
+Package pdftex.def Info: leptons-iproc.png used on input line 119.
+(pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
+ [3]
+<leptons-lome.png, id=34, 451.6875pt x 408.52625pt>
+File: leptons-lome.png Graphic file (type png)
+ <use leptons-lome.png>
+Package pdftex.def Info: leptons-lome.png used on input line 128.
+(pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
 
-<use mult-w-eps-converted-to.pdf>
-Package pdftex.def Info: mult-w-eps-converted-to.pdf used on input line 140.
-(pdftex.def)             Requested size: 165.90915pt x 237.01404pt.
-Package epstopdf Info: Source file: <tops-bosons.eps>
-(epstopdf)                    date: 2017-08-04 17:14:09
-(epstopdf)                    size: 24557 bytes
-(epstopdf)             Output file: <tops-bosons-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-08-04 17:20:54
-(epstopdf)                    size: 4582 bytes
-(epstopdf)             Command: <epstopdf --outfile=tops-bosons-eps-converted-t
-o.pdf tops-bosons.eps>
+<leptons-fixed.png, id=35, 451.6875pt x 408.52625pt>
+File: leptons-fixed.png Graphic file (type png)
+ <use leptons-fixed.png>
+Package pdftex.def Info: leptons-fixed.png used on input line 134.
+(pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
+Package epstopdf Info: Source file: <mult-w1.eps>
+(epstopdf)                    date: 2017-08-07 17:57:54
+(epstopdf)                    size: 24485 bytes
+(epstopdf)             Output file: <mult-w1-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-09 13:09:38
+(epstopdf)                    size: 4355 bytes
+(epstopdf)             Command: <epstopdf --outfile=mult-w1-eps-converted-to.pd
+f mult-w1.eps>
 (epstopdf)             \includegraphics on input line 146.
 Package epstopdf Info: Output file is already uptodate.
 
-<tops-bosons-eps-converted-to.pdf, id=33, 505.89pt x 722.7pt>
-File: tops-bosons-eps-converted-to.pdf Graphic file (type pdf)
+<mult-w1-eps-converted-to.pdf, id=36, 505.89pt x 722.7pt>
+File: mult-w1-eps-converted-to.pdf Graphic file (type pdf)
 
-<use tops-bosons-eps-converted-to.pdf>
-Package pdftex.def Info: tops-bosons-eps-converted-to.pdf used on input line 14
-6.
+<use mult-w1-eps-converted-to.pdf>
+Package pdftex.def Info: mult-w1-eps-converted-to.pdf used on input line 146.
 (pdftex.def)             Requested size: 165.90915pt x 237.01404pt.
- [4] [5 <D:/учёба/CERN/report/report_in_tex/pdfdiffTev.jpg> <D:/учёба
-/CERN/report/report_in_tex/mult-w-eps-converted-to.pdf> <D:/учёба/CERN/rep
-ort/report_in_tex/tops-bosons-eps-converted-to.pdf>] [6] (D:\учёба\CERN\re
-port\report_in_tex\report_Cern.aux)
+Package epstopdf Info: Source file: <tops-bosons1.eps>
+(epstopdf)                    date: 2017-08-07 18:37:01
+(epstopdf)                    size: 27613 bytes
+(epstopdf)             Output file: <tops-bosons1-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-09 13:09:38
+(epstopdf)                    size: 6398 bytes
+(epstopdf)             Command: <epstopdf --outfile=tops-bosons1-eps-converted-
+to.pdf tops-bosons1.eps>
+(epstopdf)             \includegraphics on input line 152.
+Package epstopdf Info: Output file is already uptodate.
 
-LaTeX Warning: There were multiply-defined labels.
+<tops-bosons1-eps-converted-to.pdf, id=37, 505.89pt x 722.7pt>
+File: tops-bosons1-eps-converted-to.pdf Graphic file (type pdf)
 
- ) 
+<use tops-bosons1-eps-converted-to.pdf>
+Package pdftex.def Info: tops-bosons1-eps-converted-to.pdf used on input line 1
+52.
+(pdftex.def)             Requested size: 165.90915pt x 237.01404pt.
+ [4 <D:/учёба/CERN/report/report_in_tex/M_eff_jets.png> <D:/учёба/CER
+N/report/report_in_tex/leptons-iproc.png> <D:/учёба/CERN/report/report_in_
+tex/leptons-lome.png> <D:/учёба/CERN/report/report_in_tex/leptons-fixed.pn
+g>] [5 <D:/учёба/CERN/report/report_in_tex/mult-w1-eps-converted-to.pdf> <
+D:/учёба/CERN/report/report_in_tex/tops-bosons1-eps-converted-to.pdf>] [6]
+
+(D:\учёба\CERN\report\report_in_tex\report_Cern.aux) ) 
 Here is how much of TeX's memory you used:
- 3894 strings out of 493921
- 51508 string characters out of 3150556
- 109835 words of memory out of 3000000
- 7079 multiletter control sequences out of 15000+200000
+ 3911 strings out of 493921
+ 51832 string characters out of 3150556
+ 109735 words of memory out of 3000000
+ 7092 multiletter control sequences out of 15000+200000
  28586 words of font info for 82 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 42i,9n,26p,1208b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
-{E:/miktex/Full_TeX/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<E:/mikte
-x/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmex10.pfb><E:/miktex/Full_TeX/
-texmf/fonts/type1/public/amsfonts/cm/cmmi10.pfb><E:/miktex/Full_TeX/texmf/fonts
-/type1/public/amsfonts/cm/cmmi12.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/publ
-ic/amsfonts/cm/cmmi6.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/
-cm/cmmi8.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb
-><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/miktex/
-Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr6.pfb><E:/miktex/Full_TeX/texm
-f/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/miktex/Full_TeX/texmf/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/ams
-fonts/cm/cmsy8.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx10
-95.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1200.pfb><E:/m
-iktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1728.pfb><E:/miktex/Full_T
-eX/texmf/fonts/type1/public/cm-super/sfrm1095.pfb><E:/miktex/Full_TeX/texmf/fon
-ts/type1/public/cm-super/sfrm1200.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/pub
-lic/cm-super/sfrm1440.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super
-/sfrm2074.pfb>
-Output written on report_Cern.pdf (6 pages, 308561 bytes).
+ 42i,10n,26p,1457b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
+{E:/miktex/Full_TeX/
+texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<E:/miktex/Full_TeX/texmf/fonts
+/type1/public/amsfonts/cm/cmex10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts
+/cm/cmmi12.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmmi6.p
+fb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmmi8.pfb><E:/mikte
+x/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/miktex/Full_TeX/t
+exmf/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/miktex/Full_TeX/texmf/fonts/t
+ype1/public/amsfonts/cm/cmr6.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/a
+msfonts/cm/cmr8.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:
+/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1095.pfb><E:/miktex/Full
+_TeX/texmf/fonts/type1/public/cm-super/sfbx1200.pfb><E:/miktex/Full_TeX/texmf/f
+onts/type1/public/cm-super/sfbx1728.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/p
+ublic/cm-super/sfrm1095.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-sup
+er/sfrm1200.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfrm1440.
+pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfrm2074.pfb>
+Output written on report_Cern.pdf (6 pages, 518290 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 113 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
