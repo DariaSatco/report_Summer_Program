@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  10 AUG 2017 15:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  11 AUG 2017 12:23
 entering extended mode
 **D:/учёба/CERN/report/report_in_tex/report_Cern.tex
 (D:/учёба/CERN/report/report_in_tex/report_Cern.tex
@@ -383,23 +383,23 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 47.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 46.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 47.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 46.
 
 <plot_energy1.jpg, id=1, 660.21657pt x 352.31625pt>
 File: plot_energy1.jpg Graphic file (type jpg)
  <use plot_energy1.jpg>
-Package pdftex.def Info: plot_energy1.jpg used on input line 53.
+Package pdftex.def Info: plot_energy1.jpg used on input line 55.
 (pdftex.def)             Requested size: 195.89456pt x 104.53448pt.
 
 <sphaleron1.jpg, id=2, 243.15843pt x 184.43906pt>
 File: sphaleron1.jpg Graphic file (type jpg)
  <use sphaleron1.jpg>
-Package pdftex.def Info: sphaleron1.jpg used on input line 59.
+Package pdftex.def Info: sphaleron1.jpg used on input line 61.
 (pdftex.def)             Requested size: 174.13034pt x 132.07835pt.
 
-Underfull \hbox (badness 1132) in paragraph at lines 60--60
+Underfull \hbox (badness 1132) in paragraph at lines 62--62
 \T2A/cmr/m/n/12 of sphaleron, pic-tured, changes baryon
  []
 
@@ -411,31 +411,28 @@ haleron1.jpg>] <M_eff_jets.png, id=28, 451.6875pt x 408.52625pt>
 File: M_eff_jets.png Graphic file (type png)
 
 <use M_eff_jets.png>
-Package pdftex.def Info: M_eff_jets.png used on input line 104.
+Package pdftex.def Info: M_eff_jets.png used on input line 100.
 (pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
  <leptons-iproc.png, id=30, 451.6875pt x 408.52625pt>
 File: leptons-iproc.png Graphic file (type png)
 
 <use leptons-iproc.png>
-Package pdftex.def Info: leptons-iproc.png used on input line 110.
+Package pdftex.def Info: leptons-iproc.png used on input line 106.
 (pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<leptons-lome.png, id=31, 451.6875pt x 408.52625pt>
+ <leptons-lome.png, id=31, 451.6875pt x 408.52625pt>
 File: leptons-lome.png Graphic file (type png)
- <use leptons-lome.png>
-Package pdftex.def Info: leptons-lome.png used on input line 119.
-(pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
 
-<leptons-fixed.png, id=32, 451.6875pt x 408.52625pt>
+<use leptons-lome.png>
+Package pdftex.def Info: leptons-lome.png used on input line 115.
+(pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
+ <leptons-fixed.png, id=32, 451.6875pt x 408.52625pt>
 File: leptons-fixed.png Graphic file (type png)
- <use leptons-fixed.png>
-Package pdftex.def Info: leptons-fixed.png used on input line 125.
-(pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
 
-[3]
+<use leptons-fixed.png>
+Package pdftex.def Info: leptons-fixed.png used on input line 121.
+(pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
+ [3 <D:/учёба/CERN/report/report_in_tex/M_eff_jets.png> <D:/учёба/CER
+N/report/report_in_tex/leptons-iproc.png>]
 Package epstopdf Info: Source file: <mult-w1.eps>
 (epstopdf)                    date: 2017-08-07 17:57:54
 (epstopdf)                    size: 24485 bytes
@@ -444,13 +441,14 @@ Package epstopdf Info: Source file: <mult-w1.eps>
 (epstopdf)                    size: 4355 bytes
 (epstopdf)             Command: <epstopdf --outfile=mult-w1-eps-converted-to.pd
 f mult-w1.eps>
-(epstopdf)             \includegraphics on input line 137.
+(epstopdf)             \includegraphics on input line 133.
 Package epstopdf Info: Output file is already uptodate.
- <mult-w1-eps-converted-to.pdf, id=36, 505.89pt x 722.7pt>
+
+<mult-w1-eps-converted-to.pdf, id=38, 505.89pt x 722.7pt>
 File: mult-w1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use mult-w1-eps-converted-to.pdf>
-Package pdftex.def Info: mult-w1-eps-converted-to.pdf used on input line 137.
+Package pdftex.def Info: mult-w1-eps-converted-to.pdf used on input line 133.
 (pdftex.def)             Requested size: 165.90915pt x 237.01404pt.
 Package epstopdf Info: Source file: <tops-bosons1.eps>
 (epstopdf)                    date: 2017-08-07 18:37:01
@@ -460,53 +458,55 @@ Package epstopdf Info: Source file: <tops-bosons1.eps>
 (epstopdf)                    size: 6398 bytes
 (epstopdf)             Command: <epstopdf --outfile=tops-bosons1-eps-converted-
 to.pdf tops-bosons1.eps>
-(epstopdf)             \includegraphics on input line 143.
+(epstopdf)             \includegraphics on input line 139.
 Package epstopdf Info: Output file is already uptodate.
 
-<tops-bosons1-eps-converted-to.pdf, id=37, 505.89pt x 722.7pt>
+<tops-bosons1-eps-converted-to.pdf, id=39, 505.89pt x 722.7pt>
 File: tops-bosons1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use tops-bosons1-eps-converted-to.pdf>
 Package pdftex.def Info: tops-bosons1-eps-converted-to.pdf used on input line 1
-43.
+39.
 (pdftex.def)             Requested size: 165.90915pt x 237.01404pt.
 
-Underfull \hbox (badness 2310) in paragraph at lines 144--144
+Underfull \hbox (badness 2310) in paragraph at lines 140--140
 \T2A/cmr/m/n/12 on en-ergy. In-te-grated lu-mi-nos-ity is as-
  []
 
-[4 <D:/учёба/CERN/report/report_in_tex/M_eff_jets.png> <D:/учёба/CERN
-/report/report_in_tex/leptons-iproc.png> <D:/учёба/CERN/report/report_in_t
-ex/leptons-lome.png> <D:/учёба/CERN/report/report_in_tex/leptons-fixed.png
->] [5 <D:/учёба/CERN/report/report_in_tex/mult-w1-eps-converted-to.pdf> <D
-:/учёба/CERN/report/report_in_tex/tops-bosons1-eps-converted-to.pdf>]
-[6] (D:\учёба\CERN\report\report_in_tex\report_Cern.aux) ) 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <D:/учёба/CERN/report/report_in_tex/leptons-lome.png> <D:/учёба/CE
+RN/report/report_in_tex/leptons-fixed.png>] [5 <D:/учёба/CERN/report/repor
+t_in_tex/mult-w1-eps-converted-to.pdf> <D:/учёба/CERN/report/report_in_tex
+/tops-bosons1-eps-converted-to.pdf>] [6]
+(D:\учёба\CERN\report\report_in_tex\report_Cern.aux) ) 
 Here is how much of TeX's memory you used:
- 3964 strings out of 493921
- 52540 string characters out of 3150556
- 111448 words of memory out of 3000000
- 7141 multiletter control sequences out of 15000+200000
+ 3961 strings out of 493921
+ 52502 string characters out of 3150556
+ 111440 words of memory out of 3000000
+ 7138 multiletter control sequences out of 15000+200000
  28586 words of font info for 82 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 42i,10n,26p,1555b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
-{E:/miktex/Full_
-TeX/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<E:/miktex/Full_TeX/texmf/f
-onts/type1/public/amsfonts/cm/cmex10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/
-public/amsfonts/cm/cmmi10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsf
-onts/cm/cmmi12.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmm
-i6.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmmi8.pfb><E:/m
-iktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/miktex/Full_T
-eX/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/miktex/Full_TeX/texmf/fon
-ts/type1/public/amsfonts/cm/cmr6.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/publ
-ic/amsfonts/cm/cmr8.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmsy8.pfb
-><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1095.pfb><E:/miktex/
-Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1200.pfb><E:/miktex/Full_TeX/tex
-mf/fonts/type1/public/cm-super/sfbx1728.pfb><E:/miktex/Full_TeX/texmf/fonts/typ
-e1/public/cm-super/sfrm1095.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm
--super/sfrm1200.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfrm1
-440.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on report_Cern.pdf (6 pages, 518142 bytes).
+ 42i,10n,26p,1416b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
+{E:/miktex/Full_TeX/
+texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<E:/miktex/Full_TeX/texmf/fonts
+/type1/public/amsfonts/cm/cmex10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts
+/cm/cmmi12.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmmi6.p
+fb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmmi8.pfb><E:/mikte
+x/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/miktex/Full_TeX/t
+exmf/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/miktex/Full_TeX/texmf/fonts/t
+ype1/public/amsfonts/cm/cmr6.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/a
+msfonts/cm/cmr8.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:
+/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1095.pfb><E:/miktex/Full
+_TeX/texmf/fonts/type1/public/cm-super/sfbx1200.pfb><E:/miktex/Full_TeX/texmf/f
+onts/type1/public/cm-super/sfbx1728.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/p
+ublic/cm-super/sfrm1095.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-sup
+er/sfrm1200.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfrm1440.
+pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfrm2074.pfb>
+Output written on report_Cern.pdf (6 pages, 513598 bytes).
 PDF statistics:
  113 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

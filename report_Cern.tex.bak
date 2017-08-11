@@ -43,11 +43,13 @@ In view of new possibilities becoming more realistic with FCC design and of rece
 \end{abstract}
 
 \section{Introduction}
-It is well known that both baryon (B) and lepton (L) numbers are not conserved in the standard electroweak theory. The non-Abelian nature of a Yang-Mills theory leads to a topologically nontrivial vacuum structure with an infinite number of ground states. The existence of instanton/sphaleron solutions \cite{rubakov} even in case of the simplified form of the electroweak Lagrangian~(\ref{ew_lagrangian})
-\begin{equation}\label{ew_lagrangian}
-L=-\frac{1}{2} Tr[F_{\mu\nu}F^{\mu\nu}]+\frac{1}{2}(D_\mu \Phi)^\dag D^{\mu} \Phi - \frac{\lambda}{4} (\Phi^\dag \Phi - v^2)^2 + i \overline{\Psi}^{(i)}_L\gamma^\mu D_\mu \Psi^{(i)}_L
+ The non-Abelian nature of a Yang-Mills theory leads to a topologically nontrivial vacuum structure with an infinite number of ground states, which can be enumerated by Chern-Simons numbers $N_{CS}$. The transition between different vacuum states  \cite{rubakov} leads to the baryon and lepton number violation in electroweak Standard model. One can easily find the relation between lepton and baryon numbers variation $\Delta (B+L) = 6N_{CS},~\Delta(B-L) = 0$.\\
+ The gauge-Higgs system is similar to a particle in the periodic potential (see Fig.\ref{ris:energy_plot}). An \textbf{instanton} is a localized, finite-action solution of the Euclidean field equations, which describes the tunneling event between vacua with different Chern-Simons numbers. There is also the second - static, unstable, finite-energy solution, known as \textbf{sphaleron} - which describes the transitions in a classical way possible only at high energies. The height of the barrier between different vacua at zero temperature is equal to the static energy of the sphaleron solution:
+\begin{equation}\label{sphaleron_energy}
+E_{sph} = \frac{2m_W}{\alpha_W}B\left( \frac{m_H}{m_W}\right)\approx 9~\text{TeV}
 \end{equation}
-leads to the fermion numbers conservation breakdown, therefore the transition between different vacuum states (the change of fermion numbers) becomes possible. These states can be numerated by Chern-Simons numbers $N$. One can easily find the relation between lepton and baryon numbers variation $\Delta (B+L) = 6N,~\Delta(B-L) = 0$.\\
+where $m_W, m_H$ are W- and Higgs boson masses, $\alpha_W=\frac{g^2}{4\pi}=\frac{1}{29}$ - electroweak constant, B - a tabulated function.\\
+Sphaleron can be also considered as an unstable configuration of fields, which decays to the vacuum by emission of many particles (see Fig.\ref{ris:sphaleron}).
 \begin{figure}[t]
 \begin{minipage}[h]{0.45\linewidth}
 \center{\includegraphics[width=0.9\linewidth]{plot_energy1.jpg}}
@@ -61,19 +63,13 @@ leads to the fermion numbers conservation breakdown, therefore the transition be
 \label{ris:sphaleron}
 \end{minipage}
 \end{figure}
-The gauge-Higgs system is similar to a particle in the periodic potential (see Fig.\ref{ris:energy_plot}). An \textbf{instanton} is a localized, finite-action solution of the Euclidean field equations, which describes the tunneling event between vacua with different Chern-Simons numbers. There is also the second - static, unstable, finite-energy solution, known as \textbf{sphaleron} - which describes the transitions in a classical way possible only at high energies. The height of the barrier between different vacua at zero temperature is equal to the static energy of the sphaleron solution:
-\begin{equation}\label{sphaleron_energy}
-E_{sph} = \frac{2m_W}{\alpha_W}B\left( \frac{m_H}{m_W}\right)\approx 9~\text{TeV}
-\end{equation}
-where $m_W, m_H$ are W- and Higgs boson masses, $\alpha_W=\frac{g^2}{4\pi}=\frac{1}{29}$ - electroweak constant, B - a tabulated function.\\
-In analogy to the quantum-mechanical results for a particle tunneling under the potential barrier between different states, one can estimate the instanton tunneling probability $\sigma_{inst}\propto\exp\left( -\frac{4\pi}{\alpha_W}\sim 10^{-170} \right)$, which is unobservably small, that's why nobody expects to detect them. The amplitude is expected to be enhanced when the energies approach $E_{sph}$, since at energies above sphaleron the system can in principle evolve from one vacuum state to another in a classical way.
 
 \section{Sphaleron at colliders}
-Sphaleron corresponds to an unstable configuration of fields, which decays to the vacuum by emission of many particles (see Fig.\ref{ris:sphaleron}). We can treat a sphaleron at collider in the following way:
+In analogy to the quantum-mechanical results for a particle tunneling under the potential barrier between different states, one can estimate the instanton tunneling probability $\sigma_{inst}\propto\exp\left( -\frac{4\pi}{\alpha_W}\sim 10^{-170} \right)$, which is unobservably small. The amplitude is expected to be enhanced when the energies approach $E_{sph}$, since at energies above sphaleron the system can in principle evolve from one vacuum state to another in a classical way. We can treat a sphaleron at collider in the following way:
 \begin{equation}\label{sphaleron_reaction}
 q + q \rightarrow 7 \overline{q} + 3 \overline{l} + n_B W(Z) + n_H H
 \end{equation}
-The amplitude of Baryon and Lepton number violating (BLNV) process increases when it involves a large number of gauge and Higgs bosons. The BLNV process (\ref{sphaleron_reaction}) can not be described in terms of Feynman diagrams (is non-perturbative), but still it is possible to estimate its rate within the instanton approach \cite{hooft} - the "perturbation theory" for instanton solutions. It was found that the cross section of the sphaleron process grows exponentially with boson multiplicity and parton-parton centre of mass energy. The general expression for the BLNV cross section is the following:
+The amplitude of Baryon and Lepton number violating (BLNV) process increases when it involves a large number of gauge and Higgs bosons. The BLNV process (\ref{sphaleron_reaction}) can not be described in terms of Feynman diagrams (is non-perturbative), but still it is possible to estimate its rate within the instanton "perturbation theory" \cite{hooft}, which leads to the following expression for the BLNV cross section:
 \begin{equation}\label{sph_cross_section}
 \sigma_{sph}\propto \exp \left[ \frac{4\pi}{\alpha_W} S\left( \frac{E}{E_{sph}}\right)\right]
 \end{equation}
@@ -81,16 +77,16 @@ The function S is called the suppression factor, whereas its expansion is known 
 \begin{equation} \label{boson_mult}
 \overline{n}_B \sim \frac{3}{2} \frac{\pi}{\alpha_W} \left( \frac{E}{E_{sph}} \right)^{4/3}, \quad \frac{n_H}{n_B} \sim \frac{1}{16}
 \end{equation}
-There are several problems in the instanton approach which leads to the theory breakdown at energies close or higher than the spahleron. First one is about the suppresion factor expansion, when $ E/E_{sph} $ is no longer small, the second problem is concerned with the unitarity violation due to the exponential growth. \\
-Another attempt to calculate sphaleron cross section was made recently in \cite{ellis}. The calculations were based on Tye and Wong (TW) approach \cite{tye_wong}, which consider the sphaleron transitions modelled by a one-dimensional Schr\"{o}dinger equation. It was shown that there is no any further exponential suppression since the energies become higher than $E_{sph}$, the obtained cross section result still allows to calculate the value scaled by unknown constant. The correctness of the theory is widely discussed now, but anyway the main prediction of the that research is the real possibility of sphaleron detection at FCC energies (maybe even at HL-LHC). Such a powerful statement renewed the interest toward the sphaleron study and stimulated our research, since we want to have a look at these processes within numerical methods based on instanton approach.
+The instanton approach breaks down at energies close or higher than the spahleron, because of the suppresion factor expansion incorrectness, when $ E/E_{sph} $ is no longer small, and the unitarity violation due to the exponential growth. \\
+Another method to calculate sphaleron cross section (Tye and Wong (TW) approach \cite{tye_wong}) is to consider the sphaleron transitions modelled by a one-dimensional Schr\"{o}dinger equation. It was shown that there is no any further exponential suppression since the energies become higher than $E_{sph}$, the obtained cross section result still allows to calculate the value scaled by unknown constant. The main prediction of the research based on this approach \cite{ellis} is the real possibility of sphaleron detection at FCC energies (maybe even at HL-LHC). Such a powerful statement renewed the interest toward the sphaleron study and stimulated our research, since we want to have a look at these processes within numerical methods based on instanton approach.
 
 \section{Simulation of sphaleron process}
 
-In order to simulate a sphaleron process we used HERBVI \cite{herbvi}  - hard-process Monte Carlo event generator interfacing to HERWIG, which is a general-purpose Monte Carlo event generator (version 6.5). The BLNV process generated by HERBVI corresponds to the transition between closest vacuum states: $\Delta B = \Delta L = -3$ and it is considered in terms of reaction (\ref{sphaleron_reaction}) for valence quarks only ($u$ or $d$ quark). In fact there are two types of BLNV processes: $qq$ and $\bar{q}\bar{q}$, but the contribution of the last one is two to three orders of magnitude smaller, therefore we suppose it to be negligible.  The parton level cross section is assumed to be flat, the matrix elements in cross section expression are constant, that means the distributions of produced particles being determined by phase space only. We consider a steeply rising cross section, which is cut off at some energy in order to satisfy unitarity constraints. We should emphasize the fact that HERBVI does not allow us to calculate the magnitude of sphaleron cross section, but still it provides us possibility to investigate the properties of events. The advantage of using HERBVI+HERWIG is that one can control:
+In order to simulate a sphaleron process we used HERBVI \cite{herbvi}  - hard-process Monte Carlo event generator interfacing to HERWIG, which is a general-purpose Monte Carlo event generator (version 6.5). The BLNV process generated by HERBVI corresponds to the transition between closest vacuum states: $\Delta B = \Delta L = -3$ and it is considered in terms of reaction (\ref{sphaleron_reaction}) for valence quarks only ($u$ or $d$ quark) with a flat parton level cross section. We should emphasize the fact that HERBVI does not allow us to calculate the magnitude of sphaleron cross section, but still it provides us possibility to investigate the properties of events. In order to continue with the qualitative and statistical analysis of generation results we changed the HERBVI output to the HepMC format. The advantage of using HERBVI+HERWIG is that one can control:
 \begin{itemize}
-\item parton distributions, using either internal HERWIG sets \cite{herwig} or LHAPDF library (the latest version - 6.1)
-\item boson multiplicity $n_B$ - either a fixed value or a normal distribution modelled on the leading order BLNV matrix element
-\item process type - BLNV (sphaleron) process or non-perturbative multi-W (B+L conserved) process (consider only $qq$ interaction, since the $\bar{q}\bar{q}$, $q\bar{q}$ are much smaller in magnitude):
+\item[--] parton distributions. Initially there were three internal HERWIG sets \cite{herwig} of PDFs, but we also managed to interface it to LHAPDF library (the latest version - 6.1)
+\item[--] boson multiplicity $n_B$. The default distribution is a fixed value, but it is also possible to apply a normal distribution modelled on the leading order BLNV matrix elements.
+\item[--] process type - BLNV (sphaleron) process or multi-W (B+L conserved) process (consider only $qq$ interaction, since the $\bar{q}\bar{q}$, $q\bar{q}$ are much smaller in magnitude):
 \begin{equation}\label{multi-w_reaction}
 q_1 + q_2 \rightarrow q_3 + q_4 + n_B W(Z) + n_H H
 \end{equation}
@@ -98,7 +94,7 @@ q_1 + q_2 \rightarrow q_3 + q_4 + n_B W(Z) + n_H H
 
 
 \section{Simulation results}
-It was important to check the correctness of HERBVI generation as well as distinction in the results one can get applying different conditions. Hence we would like to discuss in this section basic HERBVI running modes. As it was mentioned earlier, we can control in HERBVI parton and boson distributions. One can see on the Fig.\ref{ris:pdfs} that there is an evident difference between modern (LHAPDF) parton distributions and the old one (MSTW1998), when the difference between modern PDFs themselves is small enough to choose any of them without expecting any noticeable influence.
+It was important to check the correctness of HERBVI generation as well as distinction of the results one can get applying different conditions. Hence we would like to discuss in this section basic HERBVI running modes. As it was mentioned earlier, we can control in HERBVI parton and boson distributions. One can see on the Fig.\ref{ris:pdfs} that there is an evident difference between modern (LHAPDF) parton distributions and the old one (MSTW1998), when the difference between modern PDFs themselves is small enough to choose any of them without expecting any noticeable influence.
 \begin{figure}[h!]
 \begin{minipage}[h]{0.49\linewidth}
 \center{\includegraphics[width=0.85\linewidth]{M_eff_jets.png}}
@@ -131,7 +127,7 @@ Another important question is how the boson multiplicity influences the generati
 
 \section{Cross section limits}
 
-The generation of BLNV process with HERBVI still doesn't give the information about the cross section magnitude. The distributions we get allow us to carry out a qualitative analysis and put the limits on the spahleron rate. We expect it to be possible to detect sphalerons at high energy proton-proton colliders, therefore we should know how the background looks like. The main sphaleron characteristic is the huge number of bosons resulting in huge number of leptons. The possible backgrounds are multi-W(Z) production and multiple top quark production processes. HERBVI can generate non-perturbative multi-W processes (\ref{multi-w_reaction}) and as we see (Fig. \ref{ris:iproc}) the distributions of final particles (for example leptons) are similar for sphaleron and multi-W processes with a small shift in the region of higher lepton numbers for sphalerons, but the difference is so small, that it should be very difficult to separate signal and background. On the other hand it is possible to calculate multi-W production and multiple top quark in terms of perturbation theory for numbers $\leq 6$ and then extrapolate the data. We see (Fig. (\ref{ris:multi-w-cross}, \ref{ris:top-boson-cross})) that the cross section is decreasing with the growth of W-boson and top quarks number, that allows us to expect negligible small cross section for such kind of processes at $n_B \sim 10$.
+The distributions we got allow us to carry out a qualitative analysis and put the limits on the sphaleron rate. We expect it to be possible to detect sphalerons at high energy proton-proton colliders, therefore we should know how the background looks like. The main sphaleron characteristic is the huge number of bosons resulting in huge number of leptons. The possible backgrounds are multi-W(Z) production and multiple top quark production processes. HERBVI can generate SM multi-W processes (\ref{multi-w_reaction}) and as we see (Fig. \ref{ris:iproc}) the distributions of final particles (leptons) are similar for sphaleron and multi-W processes with a small shift to the region of higher lepton numbers for sphalerons, but the difference is so small, that it should be very difficult to separate signal and background. On the other hand it is possible to calculate multi-W production and multiple top quark production in terms of perturbation theory for numbers $\leq 6$ and then extrapolate the data. We see (Fig. (\ref{ris:multi-w-cross}, \ref{ris:top-boson-cross})) that the cross section is decreasing with the growth of W-boson and top quarks number, that allows us to expect negligibly small cross section for such kind of processes at $n_B \sim 10$ (more detailed explanation can be found in \cite{multi-higgs, sm_at_fcc}).
 \begin{figure}[h!]
 \begin{minipage}[h]{0.49\linewidth}
 \center{\includegraphics[width=0.7\linewidth, angle=270]{mult-w1.eps}}
@@ -146,18 +142,18 @@ The generation of BLNV process with HERBVI still doesn't give the information ab
 \end{minipage}
 \end{figure}
 
-In table \ref{tab:upper-limit} we indicate the cutting points for lepton numbers at different energies and the corresponding acceptance (we plot the lepton distribution provided that $p_T>25$ TeV, $|\eta|<2.5$), the integrated luminosity is supposed to be $L=3000 fb^{-1}$. We assume zero background, thus the $95 \% $ confidence level upper limit for number of events gives us $s_{upl} \sim 3$ events (note: the estimation is made by frequentist approach without systematic uncertainties for simplicity). The last column of table \ref{tab:upper-limit} includes the cross section upper limit for sphalerons.
+In table \ref{tab:upper-limit} we indicate the cutting points for lepton numbers at different energies and the corresponding acceptance (we plot the lepton distribution provided that $p_T>25$ TeV, $|\eta|<2.5$), the integrated luminosity is supposed to be $L=3000 fb^{-1}$. We assume zero background, thus the $95 \% $ confidence level upper limit for number of events gives us $s_{upl} \sim 3$ evt (note: the estimation is made by frequentist approach without systematic uncertainties for simplicity). The last column of table \ref{tab:upper-limit} includes the cross section upper limit for sphalerons.
 \begin{table}[h!]
 \caption{\label{tab:upper-limit}Upper limit for sphaleron cross section at different energies}
 \begin{center}
-\begin{tabular}{c|ccc}
+\begin{tabular}{c|cccc}
 \toprule
- $E$ [\text{TeV}] & cuts & Acceptance & $\sigma_{upl}$, pb \\
+ $E$ [\text{TeV}] & cuts & Acceptance & $\sigma_{upl}$, pb & $\sigma_{sph}$, pb \cite{ellis} \\
 \midrule
- $14$ & $6$ & $0.439$ & $2.27\cdot10^{-6}$ \\
-\hline $33$ & $10$ & $0.979$ & $1.08\cdot10^{-6}$ \\
-\hline $40$ & $10$ & $0.998$ & $1.013\cdot10^{-6}$ \\
-\hline $100$ & $12$ & $1$ & $1.00\cdot10^{-6}$ \\
+ $14$ & $6$ & $0.439$ & $2.27\cdot10^{-6}$ & $41\cdot10^{-3}$\\
+\hline $33$ & $10$ & $0.979$ & $1.08\cdot10^{-6}$ & $300$\\
+\hline $40$ & $10$ & $0.998$ & $1.013\cdot10^{-6}$ & -\\
+\hline $100$ & $12$ & $1$ & $1.00\cdot10^{-6}$ & $141\cdot10^{3}$ \\
 \bottomrule
 \end{tabular}
 \end{center}
@@ -165,7 +161,7 @@ In table \ref{tab:upper-limit} we indicate the cutting points for lepton numbers
 
 
 \section{Conclusions}
-Sphalerons explain the $(B+L)$-violation in Standard model and provide a great interest for future collider physics, since they can only be observed in high energy proton-proton collisions. The sphaleron process rate is absolutely unknown, but it is still possible to mark out such properties of these process as the huge number of produced W-bosons and leptons. We used HERBVI for the sphaleron simulation, studied the influence of parton and boson distributions on the sphaleron decay products. The output was modified to the format common for collider physics (HepMC), hence it is easy to continue detector simulation and further statistical analysis of the HERBVI results. The background simulation was performed and it was shown that one can confidently consider zero background for the region where the produced lepton number is higher than 6 for 14 TeV, 10 - for 33-40 TeV and 12 for 100 TeV. The qualitative analysis of sphaleron process was carried out, the upper limit for the cross section were set, however, its magnitude remains undefined.
+Sphaleron transitions provide the $(B+L)$-violation in Standard model and are of a great interest for future collider physics, since they can only be observed in high energy proton-proton collisions. The sphaleron process rate is unknown, but it is still possible to study their properties. We used HERBVI for the sphaleron simulation, its output was modified to the format common for collider physics (HepMC) to continue detector simulation and further statistical analysis of the HERBVI results. The background simulation was performed and it was shown that one can confidently consider zero background for the region where the produced lepton number is higher than 6 at 14 TeV, 10 at 33-40 TeV and 12 at 100 TeV. A qualitative analysis of sphaleron process was carried out, the influence of parton and boson distribution was considered, the upper limits for the cross section were set.
 
 
 \begin{thebibliography}{9}
@@ -175,7 +171,7 @@ Sphalerons explain the $(B+L)$-violation in Standard model and provide a great i
 \bibitem{hooft} G. 't Hooft, "Computation of the quantum effects due to a four-dimensional pseudoparticle", Phys. Rev. D \textbf{14}, 3432 (1978).
 \bibitem{khlebnikov} S.Yu. Khlebnikov, V.A. Rubakov, P.G. Tinyakov , "Instanton induced cross-sections below the sphaleron", Nucl.Phys. B \textbf{350} 441-473 (1991).
 \bibitem{ellis} John Ellis, Kazuki Sakurai, "Search for Sphalerons in Proton-Proton Collisions", Report KCL-PH-TH/2016-03, LCTS/2016-02
-\bibitem{herbvi} M.J. Gibbs, B.R. Webber, "HERBVI - a program for simulation of baryon- and lepton- number violating processes", omput.Phys.Commun. \textbf{90}, 369-380 (1995)
+\bibitem{herbvi} M.J. Gibbs, B.R. Webber, "HERBVI - a program for simulation of baryon- and lepton- number violating processes", Comput.Phys.Commun. \textbf{90}, 369-380 (1995)
 \bibitem{herwig} G.Corcella, I.G.Knowles, G.Marchesini, S.Moretti, K.Odagiri, P.Richardson, M.H.Seymour, B.R.Webber, "HERWIG 6.5: an event generator for Hadron Emission Reactions With Interfering Gluons (including supersymmetric processes)", JHEP 0101:010, 2001
 \bibitem{multi-higgs} Celine Degrande, Valentin V. Khoze, Olivier Mattelaer, "Multi-Higgs production in gluon fusion at 100 TeV", Phys. Rev. D \textbf{94}, 085031 (2016)
 \bibitem{sm_at_fcc} M.L. Mangano et. al., "Standard Model processes at the 100 TeV FCC"
