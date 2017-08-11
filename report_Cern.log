@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  11 AUG 2017 12:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  11 AUG 2017 15:03
 entering extended mode
 **D:/учёба/CERN/report/report_in_tex/report_Cern.tex
 (D:/учёба/CERN/report/report_in_tex/report_Cern.tex
@@ -398,12 +398,7 @@ File: sphaleron1.jpg Graphic file (type jpg)
  <use sphaleron1.jpg>
 Package pdftex.def Info: sphaleron1.jpg used on input line 61.
 (pdftex.def)             Requested size: 174.13034pt x 132.07835pt.
-
-Underfull \hbox (badness 1132) in paragraph at lines 62--62
-\T2A/cmr/m/n/12 of sphaleron, pic-tured, changes baryon
- []
-
-[1
+ [1
 
 {E:/miktex/Full_TeX/texmf/pdftex/config/pdftex.map}] [2 <D:/учёба/CERN/rep
 ort/report_in_tex/plot_energy1.jpg> <D:/учёба/CERN/report/report_in_tex/sp
@@ -431,8 +426,10 @@ File: leptons-fixed.png Graphic file (type png)
 <use leptons-fixed.png>
 Package pdftex.def Info: leptons-fixed.png used on input line 121.
 (pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
- [3 <D:/учёба/CERN/report/report_in_tex/M_eff_jets.png> <D:/учёба/CER
-N/report/report_in_tex/leptons-iproc.png>]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 Package epstopdf Info: Source file: <mult-w1.eps>
 (epstopdf)                    date: 2017-08-07 17:57:54
 (epstopdf)                    size: 24485 bytes
@@ -443,8 +440,7 @@ Package epstopdf Info: Source file: <mult-w1.eps>
 f mult-w1.eps>
 (epstopdf)             \includegraphics on input line 133.
 Package epstopdf Info: Output file is already uptodate.
-
-<mult-w1-eps-converted-to.pdf, id=38, 505.89pt x 722.7pt>
+<mult-w1-eps-converted-to.pdf, id=33, 505.89pt x 722.7pt>
 File: mult-w1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use mult-w1-eps-converted-to.pdf>
@@ -461,7 +457,7 @@ to.pdf tops-bosons1.eps>
 (epstopdf)             \includegraphics on input line 139.
 Package epstopdf Info: Output file is already uptodate.
 
-<tops-bosons1-eps-converted-to.pdf, id=39, 505.89pt x 722.7pt>
+<tops-bosons1-eps-converted-to.pdf, id=34, 505.89pt x 722.7pt>
 File: tops-bosons1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use tops-bosons1-eps-converted-to.pdf>
@@ -472,6 +468,11 @@ Package pdftex.def Info: tops-bosons1-eps-converted-to.pdf used on input line 1
 Underfull \hbox (badness 2310) in paragraph at lines 140--140
 \T2A/cmr/m/n/12 on en-ergy. In-te-grated lu-mi-nos-ity is as-
  []
+
+[3 <D:/учёба/CERN/report/report_in_tex/M_eff_jets.png> <D:/учёба/CERN
+/report/report_in_tex/leptons-iproc.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -484,11 +485,11 @@ t_in_tex/mult-w1-eps-converted-to.pdf> <D:/учёба/CERN/report/report_in_tex
 Here is how much of TeX's memory you used:
  3961 strings out of 493921
  52502 string characters out of 3150556
- 111440 words of memory out of 3000000
+ 112440 words of memory out of 3000000
  7138 multiletter control sequences out of 15000+200000
  28586 words of font info for 82 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 42i,10n,26p,1416b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,10n,26p,1797b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
 {E:/miktex/Full_TeX/
 texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<E:/miktex/Full_TeX/texmf/fonts
 /type1/public/amsfonts/cm/cmex10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/publ
@@ -506,7 +507,7 @@ onts/type1/public/cm-super/sfbx1728.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/p
 ublic/cm-super/sfrm1095.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-sup
 er/sfrm1200.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfrm1440.
 pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on report_Cern.pdf (6 pages, 513598 bytes).
+Output written on report_Cern.pdf (6 pages, 513020 bytes).
 PDF statistics:
  113 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

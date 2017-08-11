@@ -43,13 +43,13 @@ In view of new possibilities becoming more realistic with FCC design and of rece
 \end{abstract}
 
 \section{Introduction}
- The non-Abelian nature of a Yang-Mills theory leads to a topologically nontrivial vacuum structure with an infinite number of ground states, which can be enumerated by Chern-Simons numbers $N_{CS}$. The transition between different vacuum states  \cite{rubakov} leads to the baryon and lepton number violation in electroweak Standard model. One can easily find the relation between lepton and baryon numbers variation $\Delta (B+L) = 6N_{CS},~\Delta(B-L) = 0$.\\
- The gauge-Higgs system is similar to a particle in the periodic potential (see Fig.\ref{ris:energy_plot}). An \textbf{instanton} is a localized, finite-action solution of the Euclidean field equations, which describes the tunneling event between vacua with different Chern-Simons numbers. There is also the second - static, unstable, finite-energy solution, known as \textbf{sphaleron} - which describes the transitions in a classical way possible only at high energies. The height of the barrier between different vacua at zero temperature is equal to the static energy of the sphaleron solution:
+ The non-Abelian nature of a Yang-Mills theory leads to a topologically nontrivial vacuum structure with an infinite number of ground states, which can be enumerated by Chern-Simons numbers $N_{CS}$. The transition between different vacuum states leads to the baryon and lepton number violation in electroweak Standard Model \cite{rubakov}. One can find the relation between lepton and baryon numbers variation $\Delta (B+L) = 6N_{CS},~\Delta(B-L) = 0$.\\
+ The gauge-Higgs system is similar to a particle in the periodic potential (see Fig.\ref{ris:energy_plot}). An \textbf{instanton} is a localized, finite-action solution of the euclidean field equations, which describes the tunneling between vacua with different Chern-Simons numbers. There is also a second - static, unstable, finite-energy solution, known as \textbf{sphaleron} - which describes the transitions in a classical way possible only at high energies. The height of the barrier between different vacua at zero temperature is equal to the static energy of the sphaleron solution:
 \begin{equation}\label{sphaleron_energy}
 E_{sph} = \frac{2m_W}{\alpha_W}B\left( \frac{m_H}{m_W}\right)\approx 9~\text{TeV}
 \end{equation}
 where $m_W, m_H$ are W- and Higgs boson masses, $\alpha_W=\frac{g^2}{4\pi}=\frac{1}{29}$ - electroweak constant, B - a tabulated function.\\
-Sphaleron can be also considered as an unstable configuration of fields, which decays to the vacuum by emission of many particles (see Fig.\ref{ris:sphaleron}).
+Sphaleron can be considered as an unstable configuration of fields, which decays to the vacuum by emission of many particles (see Fig.\ref{ris:sphaleron}).
 \begin{figure}[t]
 \begin{minipage}[h]{0.45\linewidth}
 \center{\includegraphics[width=0.9\linewidth]{plot_energy1.jpg}}
@@ -59,25 +59,25 @@ Sphaleron can be also considered as an unstable configuration of fields, which d
 \hfill
 \begin{minipage}[h]{0.45\linewidth}
 \center{\includegraphics[width=0.8\linewidth]{sphaleron1.jpg}}
-\caption{Graphical representation of the Stadard Model electroweak process, referred to as a sphaleron. The simplest type of sphaleron, pictured, changes baryon number by 3 units}
+\caption{Graphical representation of an electroweak sphaleron transition}
 \label{ris:sphaleron}
 \end{minipage}
 \end{figure}
 
 \section{Sphaleron at colliders}
-In analogy to the quantum-mechanical results for a particle tunneling under the potential barrier between different states, one can estimate the instanton tunneling probability $\sigma_{inst}\propto\exp\left( -\frac{4\pi}{\alpha_W}\sim 10^{-170} \right)$, which is unobservably small. The amplitude is expected to be enhanced when the energies approach $E_{sph}$, since at energies above sphaleron the system can in principle evolve from one vacuum state to another in a classical way. We can treat a sphaleron at collider in the following way:
+In analogy to the quantum-mechanical results for a particle tunneling under the potential barrier between different states, one can estimate the instanton tunneling probability $\sigma_{inst}\propto\exp\left( -\frac{4\pi}{\alpha_W}\sim 10^{-170} \right)$, which is unobservably small. The amplitude is expected to be enhanced when the energies approach $E_{sph}$, since at energies above sphaleron the system can in principle evolve from one vacuum state to another in a classical way. At colliders we expect a sphaleron transition to give us the following Baryon and Lepton number violating (BLNV) process:
 \begin{equation}\label{sphaleron_reaction}
 q + q \rightarrow 7 \overline{q} + 3 \overline{l} + n_B W(Z) + n_H H
 \end{equation}
-The amplitude of Baryon and Lepton number violating (BLNV) process increases when it involves a large number of gauge and Higgs bosons. The BLNV process (\ref{sphaleron_reaction}) can not be described in terms of Feynman diagrams (is non-perturbative), but still it is possible to estimate its rate within the instanton "perturbation theory" \cite{hooft}, which leads to the following expression for the BLNV cross section:
+The amplitude of it increases when it involves a large number of gauge and Higgs bosons. This process can not be described in terms of Feynman diagrams (is non-perturbative), but attempts to estimate its rate have been made within the instanton "perturbation theory" \cite{hooft}, which leads to the following expression for the BLNV cross section:
 \begin{equation}\label{sph_cross_section}
 \sigma_{sph}\propto \exp \left[ \frac{4\pi}{\alpha_W} S\left( \frac{E}{E_{sph}}\right)\right]
 \end{equation}
-The function S is called the suppression factor, whereas its expansion is known only for low energies $(E<<E_{sph})$ \cite{khlebnikov}. The estimation of boson multiplicity in the same region of energies leads to the following results:
+The function S is called the suppression factor, and its expansion is known only for low energies $(E<<E_{sph})$ \cite{khlebnikov}. The estimation of the boson multiplicity leads to the following results:
 \begin{equation} \label{boson_mult}
 \overline{n}_B \sim \frac{3}{2} \frac{\pi}{\alpha_W} \left( \frac{E}{E_{sph}} \right)^{4/3}, \quad \frac{n_H}{n_B} \sim \frac{1}{16}
 \end{equation}
-The instanton approach breaks down at energies close or higher than the spahleron, because of the suppresion factor expansion incorrectness, when $ E/E_{sph} $ is no longer small, and the unitarity violation due to the exponential growth. \\
+The instanton approach breaks down at energies close or higher than the sphaleron, because of the suppression factor expansion incorrectness, when $ E/E_{sph} $ is no longer small, and the unitarity violation due to the exponential growth. \\
 Another method to calculate sphaleron cross section (Tye and Wong (TW) approach \cite{tye_wong}) is to consider the sphaleron transitions modelled by a one-dimensional Schr\"{o}dinger equation. It was shown that there is no any further exponential suppression since the energies become higher than $E_{sph}$, the obtained cross section result still allows to calculate the value scaled by unknown constant. The main prediction of the research based on this approach \cite{ellis} is the real possibility of sphaleron detection at FCC energies (maybe even at HL-LHC). Such a powerful statement renewed the interest toward the sphaleron study and stimulated our research, since we want to have a look at these processes within numerical methods based on instanton approach.
 
 \section{Simulation of sphaleron process}
@@ -142,7 +142,7 @@ The distributions we got allow us to carry out a qualitative analysis and put th
 \end{minipage}
 \end{figure}
 
-In table \ref{tab:upper-limit} we indicate the cutting points for lepton numbers at different energies and the corresponding acceptance (we plot the lepton distribution provided that $p_T>25$ TeV, $|\eta|<2.5$), the integrated luminosity is supposed to be $L=3000 fb^{-1}$. We assume zero background, thus the $95 \% $ confidence level upper limit for number of events gives us $s_{upl} \sim 3$ evt (note: the estimation is made by frequentist approach without systematic uncertainties for simplicity). The last column of table \ref{tab:upper-limit} includes the cross section upper limit for sphalerons.
+In table \ref{tab:upper-limit} we indicate the cutting points for lepton numbers at different energies and the corresponding acceptance (we plot the lepton distribution provided that $p_T>25$ TeV, $|\eta|<2.5$), the integrated luminosity is supposed to be $L=3000 fb^{-1}$. We assume zero background, thus the $95 \% $ confidence level upper limit for number of events gives us $s_{upl} \sim 3$ evt (note: the estimation is made by frequentist approach without systematic uncertainties for simplicity). The last two columns of the table \ref{tab:upper-limit} include the cross section upper limit for sphalerons and the values calculated in \cite{ellis}, which are obviously excluded within our assumptions. In fact the magnitudes for sphaleron cross section in the last column can be substantially reduced, because they contain an unknown factor $p$, which was fixed by authors equal to 1, but nobody forbids it to be $\ll 1$.
 \begin{table}[h!]
 \caption{\label{tab:upper-limit}Upper limit for sphaleron cross section at different energies}
 \begin{center}
