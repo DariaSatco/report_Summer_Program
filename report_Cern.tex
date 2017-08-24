@@ -1,24 +1,24 @@
-\documentclass[a4paper,12pt]{article}         % класс документа - статья. Также report, book и др.
-\usepackage{geometry}           % пакет для задания полей страницы командой \geometry
+\documentclass[a4paper,12pt]{article}         % пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅ report, book пїЅ пїЅпїЅ.
+\usepackage{geometry}           % пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ \geometry
 \geometry{left=2cm,right=2cm,top=1.5cm,bottom=1.5cm}
-\usepackage[cp1251]{inputenc}   % кодировка текста
-\usepackage{mathtext}           % позволяет использовать русские буквы в формулах
-\usepackage[T2A]{fontenc}       %пакет Т2А необходим для правильного отображения кириллицы и переноса слов
-%\inputencoding{cp1251}          % тоже кодировка...
-%\usepackage[russian]{babel}     % языковой пакет - последний язык главный
-%\usepackage[unicode]{hyperref}  %создаёт гиперссылки на список литературы в pdf-файле
-\usepackage{amstext,amsmath,amssymb}            % пакеты для формул
-\usepackage{bm}                 % boldmath - пакет для жирного шрифта
+\usepackage[cp1251]{inputenc}   % пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
+\usepackage{mathtext}           % пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+\usepackage[T2A]{fontenc}       %пїЅпїЅпїЅпїЅпїЅ пїЅ2пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ
+%\inputencoding{cp1251}          % пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ...
+%\usepackage[russian]{babel}     % пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+%\usepackage[unicode]{hyperref}  %пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ pdf-пїЅпїЅпїЅпїЅпїЅ
+\usepackage{amstext,amsmath,amssymb}            % пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
+\usepackage{bm}                 % boldmath - пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
 \usepackage{graphicx}
 \usepackage{epstopdf}
-\usepackage{amsfonts}           % греческие символы и, возможно, что-то ещё
-\usepackage{indentfirst}        % одинаковый отступ для первого параграфа и всего остального
-\usepackage{cite}               % команда /cite{1,2,7,9} даёт ссылки
-\usepackage{multirow}           % пакет для объединения строк в таблице: надо указать число строк и ширину столбца
-\usepackage{array}              % нужен для создания таблиц
+\usepackage{amsfonts}           % пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ-пїЅпїЅ пїЅпїЅпїЅ
+\usepackage{indentfirst}        % пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+\usepackage{cite}               % пїЅпїЅпїЅпїЅпїЅпїЅпїЅ /cite{1,2,7,9} пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
+\usepackage{multirow}           % пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+\usepackage{array}              % пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
 \usepackage{booktabs}
-%\linespread{1.3}                % полтора интервала. Если 1.6, то два интервала
-\pagestyle{plain}               % номерует страницы
+%\linespread{1.3}                % пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅ 1.6, пїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+\pagestyle{plain}               % пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 
 \DeclareGraphicsExtensions{.png,.pdf}
 \renewcommand{\arraystretch}{1.5}
@@ -30,8 +30,7 @@
 
 \author{Satco Daria \\
 Supervisor: Simone Amoroso \\
-\\
-{\normalsize CERN Summer Student Programme}
+%{\normalsize CERN Summer Student Programme}
 }
 
 \date{}
@@ -39,11 +38,12 @@ Supervisor: Simone Amoroso \\
 \maketitle
 
 \begin{abstract}
-In view of new possibilities becoming more realistic with FCC design and of recent promising results regarding $(B+L)$-violating processes detection we concentrated our research on generation and analysis of sphaleron transitions. The existence of instanton and sphaleron solutions which are associated with transitions between different vacuum states is well known since 1980s. However first calculations of instanton rate killed any hope to detect them even at very high energies while the calculation of sphaleron transitions rate is a tricky problem which continue being widely discussed. In our research we used HERBVI package to generate baryon- and lepton-number violating processes in proton-proton collisions at typical energies 14, 33, 40 and 100 TeV in order to estimate the upper limit on the sphaleron cross-section. We considered the background processes and determined the zero background regions.
+The electroweak sector of the Standard Model accepts solutions which violate baryon- and lepton-number. These sphalerons are associated  with transitions between topologically different vacuum states. Sphaleron transitions can occur at hadron colliders,  and while the magnitude of their cross-section is unknown, it is expected to be enhanced with energy and multiplicity of additional gauge bosons.
+In this work we used the HERBVI generator to study the properties of sphaleron processes  at  the energies of interest for  FCC-hh colliders (14, 33, 40 and 100 TeV).  After estimating the dominant backgrounds from multi-top and W-boson production are estimated with Madgraph5\_aMC$@$NLO, a background free signal region is defined.  Upper limits at 95 \%  confidence level on the cross-section of sphaleron transitions ranging from  $2.27 \cdot 10^{-6}$ pb at 14 TeV and $1.00 \cdot 10^{-6}$ pb at 100 TeV are obtained.
 \end{abstract}
 
 \section{Introduction}
- The non-Abelian nature of a Yang-Mills theory leads to a topologically nontrivial vacuum structure with an infinite number of ground states, which can be enumerated by Chern-Simons numbers $N_{CS}$. The transition between different vacuum states leads to the baryon and lepton number violation in electroweak Standard Model \cite{rubakov}. One can find the relation between lepton and baryon numbers variation $\Delta (B+L) = 6N_{CS},~\Delta(B-L) = 0$.\\
+The non-Abelian nature of a Yang-Mills theory leads to a topologically nontrivial vacuum structure with an infinite number of ground states, which can be enumerated by Chern-Simons numbers $N_{CS}$. The transition between different vacuum states leads to the baryon and lepton number violation in electroweak Standard Model \cite{rubakov}. One can find the relation between lepton and baryon numbers variation $\Delta (B+L) = 6N_{CS},~\Delta(B-L) = 0$.\\
  The gauge-Higgs system is similar to a particle in the periodic potential (see Fig.\ref{ris:energy_plot}). An \textbf{instanton} is a localized, finite-action solution of the euclidean field equations, which describes the tunneling between vacua with different Chern-Simons numbers. There is also a second - static, unstable, finite-energy solution, known as \textbf{sphaleron} - which describes the transitions in a classical way possible only at high energies. The height of the barrier between different vacua at zero temperature is equal to the static energy of the sphaleron solution:
 \begin{equation}\label{sphaleron_energy}
 E_{sph} = \frac{2m_W}{\alpha_W}B\left( \frac{m_H}{m_W}\right)\approx 9~\text{TeV}
@@ -94,7 +94,7 @@ q_1 + q_2 \rightarrow q_3 + q_4 + n_B W(Z) + n_H H
 
 
 \section{Simulation results}
-As it was mentioned earlier, we can control in HERBVI parton and boson distributions. One can see on the Fig.\ref{ris:pdfs} that there is an evident difference between modern (LHAPDF) parton distributions and the old one (MSTW1998), when the difference between modern PDFs themselves is small enough to choose any of them without expecting any noticeable influence.
+As it was mentioned in the previous section, we can control in HERBVI parton and boson distributions. One can see on the Fig.\ref{ris:pdfs} that there is an evident difference between modern (LHAPDF) parton distributions and the old one (MSTW1998), when the difference between modern PDFs themselves is small enough to choose any of them without expecting any noticeable influence.
 \begin{figure}[h!]
 \begin{minipage}[h]{0.49\linewidth}
 \center{\includegraphics[width=0.85\linewidth]{M_eff_jets.png}}
@@ -104,22 +104,22 @@ As it was mentioned earlier, we can control in HERBVI parton and boson distribut
 \hfill
 \begin{minipage}[h]{0.49\linewidth}
 \center{\includegraphics[width=0.85\linewidth]{leptons-iproc.png}}
-\caption{Distribution of lepton multiplicity in events for two different HERBVI running modes}
+\caption{Distribution of the lepton multiplicity for two different HERBVI running modes}
 \label{ris:iproc}
 \end{minipage}
 \end{figure}
 
-Another important question is how the boson multiplicity influences the generation, because two modes are possible in HERBVI. First one is for fixed number of bosons, since we don't have any theoretical prediction for sphaleron cross section, it's quite natural to use the simplest model we can. We expect a process with a huge number of produced bosons and we know the estimation of $n_B \sim 1/\alpha_W \approx 30$ ( see results on Fig.(\ref{ris:fix}) ). On the other hand the instanton approach leads to an energy dependence of the boson multiplicity (\ref{boson_mult}). The main idea of instanton approach is to use the perturbation theory for BLNV process (\ref{sphaleron_reaction}) and to calculate the cross section and other parameters in leading order in the electroweak coupling $\alpha_W$, that's why the resulting model is called LOME (leadig order matrix element) (Fig. (\ref{ris:lome})). Since the boson multiplicity increases with the collision energy, it becomes easier to distinguish signal for higher energies, because there are not any other observable processes with such a big number of leptons in the end.
+Another important question is how the boson multiplicity influences the generation, since there are two possible modes for it in HERBVI. First one is for a fixed number of bosons, since we don't have any theoretical prediction for sphaleron cross section, it's quite natural to use the simplest model we can. We expect a process with a huge number of produced bosons and we know the estimation of $n_B \sim 1/\alpha_W \approx 30$ ( see results on Fig.(\ref{ris:fix}) ). The instanton approach leads to an energy dependence of the boson multiplicity (\ref{boson_mult}), whereas its main idea is to use the perturbation theory for BLNV process (\ref{sphaleron_reaction}) and to calculate the cross section and other parameters in leading order in the electroweak coupling $\alpha_W$. That's why the resulting model is called LOME (leadig order matrix element) (Fig. (\ref{ris:lome})). Since the boson multiplicity increases with the collision energy, it becomes easier to distinguish signal for higher energies, because there are not any other observable processes with such a big number of leptons in the end.
 \begin{figure}[h!]
 \begin{minipage}[h]{0.49\linewidth}
 \center{\includegraphics[width=0.85\linewidth]{leptons-lome.png}}
-\caption{Distribution of the lepton multiplicity  at different collision energies. }
+\caption{Distribution of the lepton multiplicity at different collision energies within LOME model for $n_B$}
 \label{ris:lome}
 \end{minipage}
 \hfill
 \begin{minipage}[h]{0.49\linewidth}
 \center{\includegraphics[width=0.85\linewidth]{leptons-fixed.png}}
-\caption{Distribution of lepton multiplicity in events for differen energies in case of fixed number of bosons ($n_B=30$)}
+\caption{Distribution of the lepton multiplicity at different energies in case of fixed number of bosons ($n_B=30$)}
 \label{ris:fix}
 \end{minipage}
 \end{figure}
@@ -127,7 +127,7 @@ Another important question is how the boson multiplicity influences the generati
 
 \section{Cross section limits}
 
-The distributions we got allow us to carry out a qualitative analysis and put the limits on the sphaleron rate. We expect it to be possible to detect sphalerons at high energy proton-proton colliders, therefore we should know how the background looks like. The main sphaleron characteristic is the large number of bosons, resulting in a large number of leptons. The possible backgrounds are multi-W(Z) production and multiple top quark production processes. HERBVI can generate SM multi-W processes (\ref{multi-w_reaction}). As we see (Fig. \ref{ris:iproc}) the lepton distribution is similar for sphaleron and multi-W processes with a small shift to the region of higher lepton numbers for sphalerons. Being this difference small,  it should be  difficult to separate signal and background. It however is possible to calculate multi-W and multiple top quark cross-sections from ordinary perturbation theory. With the help of MadGraph we calculated in the leading order the multi-W cross section up to 4 W-bosons and multi-top cross sections up to 6 top quarks as well as 2t2W and 2t3W processes and then extrapolated the data. To continue calculations with a larger number of W-bosons and top quarks in proton-proton collisions we require much more computing resources than we have or the development of non-perturbative approach which faces with the same problems as one for sphalerons. We see (Fig. (\ref{ris:multi-w-cross}, \ref{ris:top-boson-cross})) that the cross section is decreasing with the growth of W-boson and top quarks number, that allows us to expect negligibly small cross section for such kind of processes at $n_B \sim 10$ (more detailed explanation can be found in \cite{multi-higgs, sm_at_fcc}).
+We expect it to be possible to detect sphalerons at high energy proton-proton colliders, therefore we should know how the background looks like. A striking feature of sphaleron events is the large number of bosons they are accompanied by, resulting in a large number of leptons. The possible backgrounds are multi-W(Z) production (which can be generated with HERBVI (\ref{multi-w_reaction})) and multiple top quark production processes.
 \begin{figure}[h!]
 \begin{minipage}[h]{0.49\linewidth}
 \center{\includegraphics[width=0.7\linewidth, angle=270]{mult-w1.eps}}
@@ -142,7 +142,9 @@ The distributions we got allow us to carry out a qualitative analysis and put th
 \end{minipage}
 \end{figure}
 
-In table \ref{tab:upper-limit} we indicate the lepton requirements applied at different energies and their corresponding acceptance (where the leptons satisfy $p_T>25$ TeV, $|\eta|<2.5$). The integrated luminosity is assumed to be $L=3000 fb^{-1}$. We assume zero background, thus the 95\%  confidence level upper limit for number of events gives us $s_{upl} \sim 3$ evt (note: the estimation is made by frequentist approach without systematic uncertainties for simplicity). The last two columns of the table \ref{tab:upper-limit} include the cross section upper limit for sphalerons and the values calculated in \cite{ellis}, which are obviously excluded within our assumptions. In fact the magnitudes for sphaleron cross section in the last column can be substantially reduced, because they contain an unknown factor $p$, which was fixed by authors equal to 1, but nobody forbids it to be $\ll 1$.
+As we see (Fig. \ref{ris:iproc}) the lepton distribution is similar for sphaleron and multi-W processes with a small shift to the region of higher lepton numbers for sphalerons. Being this difference small,  it should be  difficult to separate signal and background. It however is possible to calculate multi-W and multiple top quark cross-sections in ordinary perturbation theory. With the help of MadGraph we calculated in the leading order the multi-W cross section for up to 4 W-bosons and multi-top cross sections for up to 6 top quarks as well as 2t2W and 2t3W processes and then extrapolated the data. To continue calculations with a larger number of W-bosons and top quarks in proton-proton collisions we require much more computing resources than we have or the development of non-perturbative approach which faces with the same problems as one for sphalerons. We see (Fig. (\ref{ris:multi-w-cross}, \ref{ris:top-boson-cross})) that the cross section is decreasing with the growth of W-boson and top quarks number, that allows us to expect negligibly small cross section for such kind of processes at $n_B \sim 10$ (more detailed explanation can be found in \cite{multi-higgs, sm_at_fcc}).
+
+In table \ref{tab:upper-limit} we indicate the lepton requirements applied at different energies to reach a background expectation of zero events and their corresponding acceptance (where the leptons satisfy $p_T>25$ TeV, $|\eta|<2.5$). The integrated luminosity at all energies considered is assumed to be $L=3000 fb^{-1}$. With zero expected events, the 95\%  confidence level upper limit for the number of signal events in the signal region is of $s_{upl} \sim 3$ events (note: the estimation is made by frequentist approach without systematic uncertainties for simplicity). The last two columns of the table \ref{tab:upper-limit} include the cross section upper limit for sphalerons and the values calculated in \cite{ellis}, which are obviously excluded within our assumptions. In fact the magnitudes for sphaleron cross section in the last column can be substantially reduced, because they contain an unknown factor $p$, which was fixed by authors equal to 1, but nobody forbids it to be $\ll 1$.
 \begin{table}[h!]
 \caption{\label{tab:upper-limit}Upper limit for sphaleron cross section at different energies}
 \begin{center}
@@ -161,7 +163,7 @@ In table \ref{tab:upper-limit} we indicate the lepton requirements applied at di
 
 
 \section{Conclusions}
-Sphaleron transitions provide a source of $(B+L)$-violation in the Standard Model and are of a great interest for future high energy proton colliders, such as FCC-hh. While the cross-section for sphaleron production is unknown, it is still possible to study their properties. We used HERBVI for the sphaleron simulation. The background simulation was performed and it was shown that one can  consider zero background for the region where the produced lepton number is higher than 6 at 14 TeV, 12 at 100 TeV. A qualitative analysis of sphaleron process was carried out, the influence of parton and boson distribution was considered, the upper limits for the cross section were set.
+Sphaleron transitions provide a source of $(B+L)$-violation in the Standard Model and are of a great interest for future high energy proton colliders, such as FCC-hh. While the cross-section for sphaleron production is unknown, it is still possible to study its properties. We used HERBVI for the sphaleron simulation, while the background was studied with MadGraph. It was shown that one can consider zero background for the region where the produced lepton number is higher than 6 at 14 TeV, 12 at 100 TeV. The upper limit obtained for sphaleron cross section is $2.27 \cdot 10^{-6}$ pb at 14 TeV and $1.00 \cdot 10^{-6}$ pb at 100 TeV, which excludes the cross section predictions made in \cite{ellis}.
 
 
 \begin{thebibliography}{9}

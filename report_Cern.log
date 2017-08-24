@@ -1,22 +1,15 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  11 AUG 2017 15:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.19)  24 AUG 2017 11:36
 entering extended mode
-**D:/учёба/CERN/report/report_in_tex/report_Cern.tex
-(D:/учёба/CERN/report/report_in_tex/report_Cern.tex
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-(E:\miktex\Full_TeX\texmf\tex\latex\base\article.cls
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(E:\miktex\Full_TeX\texmf\tex\latex\base\size12.clo
-File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report_Cern.tex
+(./report_Cern.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -30,22 +23,21 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(E:\miktex\Full_TeX\texmf\tex\latex\geometry\geometry.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(E:\miktex\Full_TeX\texmf\tex\latex\graphics\keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(E:\miktex\Full_TeX\texmf\tex\generic\oberdiek\ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-(E:\miktex\Full_TeX\texmf\tex\generic\oberdiek\ifvtex.sty
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(E:\miktex\Full_TeX\texmf\tex\generic\ifxetex\ifxetex.sty
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count87
@@ -60,69 +52,68 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen109
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
-
-(E:\miktex\Full_TeX\texmf\tex\latex\geometry\geometry.cfg))
-(E:\miktex\Full_TeX\texmf\tex\latex\base\inputenc.sty
-Package: inputenc 2008/03/30 v1.1d Input encoding file
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 
-(E:\miktex\Full_TeX\texmf\tex\latex\cyrillic\cp1251.def
-File: cp1251.def 1999/11/16 v1.0d Input encoding file
+(/usr/local/texlive/2017/texmf-dist/tex/latex/cyrillic/cp1251.def
+File: cp1251.def 2014/10/28 v1.0d Input encoding file
 ))
-(E:\miktex\Full_TeX\texmf\tex\latex\t2\mathtext.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/t2/mathtext.sty
 Package: mathtext 1999/01/28 v1.0 transparent text-and-math defs
 LaTeX Info: Redefining \halign on input line 111.
 )
-(E:\miktex\Full_TeX\texmf\tex\latex\base\fontenc.sty
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
-(E:\miktex\Full_TeX\texmf\tex\latex\cyrillic\t2aenc.def
+(/usr/local/texlive/2017/texmf-dist/tex/latex/cyrillic/t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 \symT2Aletters=\mathgroup4
 )
-LaTeX Font Info:    Try loading font information for T2A+cmr on input line 100.
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
 
 
-(E:\miktex\Full_TeX\texmf\tex\latex\cyrillic\t2acmr.fd
+(/usr/local/texlive/2017/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-(E:\miktex\Full_TeX\texmf\tex\latex\amsmath\amstext.sty
-Package: amstext 2000/06/29 v2.01
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
 
-(E:\miktex\Full_TeX\texmf\tex\latex\amsmath\amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen111
 ))
-(E:\miktex\Full_TeX\texmf\tex\latex\amsmath\amsmath.sty
-Package: amsmath 2013/01/14 v2.14 AMS math features
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(E:\miktex\Full_TeX\texmf\tex\latex\amsmath\amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen112
 )
-(E:\miktex\Full_TeX\texmf\tex\latex\amsmath\amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count90
-LaTeX Info: Redefining \frac on input line 210.
+LaTeX Info: Redefining \frac on input line 213.
 \uproot@=\count91
 \leftroot@=\count92
-LaTeX Info: Redefining \overline on input line 306.
+LaTeX Info: Redefining \overline on input line 375.
 \classnum@=\count93
 \DOTSCASE@=\count94
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
 \big@size=\dimen113
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 \symOMLletters=\mathgroup5
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \symOMSletters=\mathgroup6
 \macc@depth=\count95
 \c@MaxMatrixCols=\count96
@@ -144,78 +135,78 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \multlinegap=\skip44
 \multlinetaggap=\skip45
 \mathdisplay@stack=\toks22
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
 )
-(E:\miktex\Full_TeX\texmf\tex\latex\amsfonts\amssymb.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(E:\miktex\Full_TeX\texmf\tex\latex\amsfonts\amsfonts.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup7
 \symAMSb=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(E:\miktex\Full_TeX\texmf\tex\latex\tools\bm.sty
-Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup9
 \symboldletters=\mathgroup10
 \symboldsymbols=\mathgroup11
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
-LaTeX Info: Redefining \bm on input line 204.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
 )
-(E:\miktex\Full_TeX\texmf\tex\latex\graphics\graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(E:\miktex\Full_TeX\texmf\tex\latex\graphics\graphics.sty
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
 
-(E:\miktex\Full_TeX\texmf\tex\latex\graphics\trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(E:\miktex\Full_TeX\texmf\tex\latex\00miktex\graphics.cfg
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(E:\miktex\Full_TeX\texmf\tex\latex\pdftex-def\pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
 
-(E:\miktex\Full_TeX\texmf\tex\generic\oberdiek\infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(E:\miktex\Full_TeX\texmf\tex\generic\oberdiek\ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count102
 ))
 \Gin@req@height=\dimen120
 \Gin@req@width=\dimen121
 )
-(E:\miktex\Full_TeX\texmf\tex\latex\oberdiek\epstopdf.sty
-Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
 
-(E:\miktex\Full_TeX\texmf\tex\latex\oberdiek\epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(E:\miktex\Full_TeX\texmf\tex\latex\oberdiek\grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-(E:\miktex\Full_TeX\texmf\tex\generic\oberdiek\kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-(E:\miktex\Full_TeX\texmf\tex\latex\oberdiek\kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(E:\miktex\Full_TeX\texmf\tex\generic\oberdiek\kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(E:\miktex\Full_TeX\texmf\tex\generic\oberdiek\etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-(E:\miktex\Full_TeX\texmf\tex\generic\oberdiek\ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
 Package etexcmds Info: Could not find \expanded.
@@ -223,40 +214,50 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-(E:\miktex\Full_TeX\texmf\tex\generic\oberdiek\pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-))
-(E:\miktex\Full_TeX\texmf\tex\latex\tools\indentfirst.sty
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-(E:\miktex\Full_TeX\texmf\tex\latex\cite\cite.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-(E:\miktex\Full_TeX\texmf\tex\latex\multirow\multirow.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip46
+\multirow@cntb=\count103
+\multirow@dima=\skip47
 \bigstrutjot=\dimen122
 )
-(E:\miktex\Full_TeX\texmf\tex\latex\tools\array.sty
-Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen123
 \extrarowheight=\dimen124
 \NC@list=\toks23
-\extratabsurround=\skip46
-\backup@length=\skip47
+\extratabsurround=\skip48
+\backup@length=\skip49
 )
-(E:\miktex\Full_TeX\texmf\tex\latex\booktabs\booktabs.sty
-Package: booktabs 2005/04/14 v1.61803 publication quality tables
+(/usr/local/texlive/2017/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \heavyrulewidth=\dimen125
 \lightrulewidth=\dimen126
 \cmidrulewidth=\dimen127
@@ -267,15 +268,17 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \cmidrulesep=\dimen132
 \cmidrulekern=\dimen133
 \defaultaddspace=\dimen134
-\@cmidla=\count103
-\@cmidlb=\count104
+\@cmidla=\count104
+\@cmidlb=\count105
 \@aboverulesep=\dimen135
 \@belowrulesep=\dimen136
-\@thisruleclass=\count105
-\@lastruleclass=\count106
+\@thisruleclass=\count106
+\@lastruleclass=\count107
 \@thisrulewidth=\dimen137
 )
-(D:\учёба\CERN\report\report_in_tex\report_Cern.aux)
+(./report_Cern.aux)
+\openout1 = `report_Cern.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
@@ -325,49 +328,49 @@ LaTeX Font Info:    ... okay on input line 27.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(E:\miktex\Full_TeX\texmf\tex\context\base\supp-pdf.mkii
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count107
+\scratchcounter=\count108
 \scratchdimen=\dimen138
 \scratchbox=\box28
-\nofMPsegments=\count108
-\nofMParguments=\count109
+\nofMPsegments=\count109
+\nofMParguments=\count110
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count110
+\MPscratchCnt=\count111
 \MPscratchDim=\dimen139
-\MPnumerator=\count111
-\makeMPintoPDFobject=\count112
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
 \everyMPtoPDFconversion=\toks25
 )
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 39.
- (E:\miktex\Full_TeX\texmf\tex\latex\base\omlcmr.fd
-File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 38.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 39.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 39.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 39.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 39.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 38.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 38.
 
-(E:\miktex\Full_TeX\texmf\tex\latex\base\omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
-LaTeX Font Info:    Try loading font information for U+msa on input line 39.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
+LaTeX Font Info:    Try loading font information for U+msa on input line 38.
 
-(E:\miktex\Full_TeX\texmf\tex\latex\amsfonts\umsa.fd
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 39.
+LaTeX Font Info:    Try loading font information for U+msb on input line 38.
 
-(E:\miktex\Full_TeX\texmf\tex\latex\amsfonts\umsb.fd
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
@@ -400,30 +403,29 @@ Package pdftex.def Info: sphaleron1.jpg used on input line 61.
 (pdftex.def)             Requested size: 174.13034pt x 132.07835pt.
  [1
 
-{E:/miktex/Full_TeX/texmf/pdftex/config/pdftex.map}] [2 <D:/учёба/CERN/rep
-ort/report_in_tex/plot_energy1.jpg> <D:/учёба/CERN/report/report_in_tex/sp
-haleron1.jpg>] <M_eff_jets.png, id=28, 451.6875pt x 408.52625pt>
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2 <./p
+lot_energy1.jpg> <./sphaleron1.jpg>]
+<M_eff_jets.png, id=29, 451.6875pt x 408.52625pt>
 File: M_eff_jets.png Graphic file (type png)
-
-<use M_eff_jets.png>
+ <use M_eff_jets.png>
 Package pdftex.def Info: M_eff_jets.png used on input line 100.
 (pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
- <leptons-iproc.png, id=30, 451.6875pt x 408.52625pt>
-File: leptons-iproc.png Graphic file (type png)
 
-<use leptons-iproc.png>
+<leptons-iproc.png, id=31, 451.6875pt x 408.52625pt>
+File: leptons-iproc.png Graphic file (type png)
+ <use leptons-iproc.png>
 Package pdftex.def Info: leptons-iproc.png used on input line 106.
 (pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
- <leptons-lome.png, id=31, 451.6875pt x 408.52625pt>
-File: leptons-lome.png Graphic file (type png)
 
-<use leptons-lome.png>
+<leptons-lome.png, id=32, 451.6875pt x 408.52625pt>
+File: leptons-lome.png Graphic file (type png)
+ <use leptons-lome.png>
 Package pdftex.def Info: leptons-lome.png used on input line 115.
 (pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
- <leptons-fixed.png, id=32, 451.6875pt x 408.52625pt>
-File: leptons-fixed.png Graphic file (type png)
 
-<use leptons-fixed.png>
+<leptons-fixed.png, id=33, 451.6875pt x 408.52625pt>
+File: leptons-fixed.png Graphic file (type png)
+ <use leptons-fixed.png>
 Package pdftex.def Info: leptons-fixed.png used on input line 121.
 (pdftex.def)             Requested size: 201.46344pt x 182.21437pt.
 
@@ -431,33 +433,33 @@ Package pdftex.def Info: leptons-fixed.png used on input line 121.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package epstopdf Info: Source file: <mult-w1.eps>
-(epstopdf)                    date: 2017-08-07 17:57:54
+(epstopdf)                    date: 2017-08-15 09:31:51
 (epstopdf)                    size: 24485 bytes
 (epstopdf)             Output file: <mult-w1-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-08-09 13:09:38
+(epstopdf)                    date: 2017-08-15 09:31:51
 (epstopdf)                    size: 4355 bytes
-(epstopdf)             Command: <epstopdf --outfile=mult-w1-eps-converted-to.pd
-f mult-w1.eps>
+(epstopdf)             Command: <repstopdf --outfile=mult-w1-eps-converted-to.p
+df mult-w1.eps>
 (epstopdf)             \includegraphics on input line 133.
 Package epstopdf Info: Output file is already uptodate.
-<mult-w1-eps-converted-to.pdf, id=33, 505.89pt x 722.7pt>
+<mult-w1-eps-converted-to.pdf, id=34, 505.89pt x 722.7pt>
 File: mult-w1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use mult-w1-eps-converted-to.pdf>
 Package pdftex.def Info: mult-w1-eps-converted-to.pdf used on input line 133.
 (pdftex.def)             Requested size: 165.90915pt x 237.01404pt.
 Package epstopdf Info: Source file: <tops-bosons1.eps>
-(epstopdf)                    date: 2017-08-07 18:37:01
+(epstopdf)                    date: 2017-08-15 09:31:59
 (epstopdf)                    size: 27613 bytes
 (epstopdf)             Output file: <tops-bosons1-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-08-09 13:09:38
+(epstopdf)                    date: 2017-08-15 09:31:59
 (epstopdf)                    size: 6398 bytes
-(epstopdf)             Command: <epstopdf --outfile=tops-bosons1-eps-converted-
-to.pdf tops-bosons1.eps>
+(epstopdf)             Command: <repstopdf --outfile=tops-bosons1-eps-converted
+-to.pdf tops-bosons1.eps>
 (epstopdf)             \includegraphics on input line 139.
 Package epstopdf Info: Output file is already uptodate.
 
-<tops-bosons1-eps-converted-to.pdf, id=34, 505.89pt x 722.7pt>
+<tops-bosons1-eps-converted-to.pdf, id=35, 505.89pt x 722.7pt>
 File: tops-bosons1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use tops-bosons1-eps-converted-to.pdf>
@@ -469,47 +471,40 @@ Underfull \hbox (badness 2310) in paragraph at lines 140--140
 \T2A/cmr/m/n/12 on en-ergy. In-te-grated lu-mi-nos-ity is as-
  []
 
-[3 <D:/учёба/CERN/report/report_in_tex/M_eff_jets.png> <D:/учёба/CERN
-/report/report_in_tex/leptons-iproc.png>]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[4 <D:/учёба/CERN/report/report_in_tex/leptons-lome.png> <D:/учёба/CE
-RN/report/report_in_tex/leptons-fixed.png>] [5 <D:/учёба/CERN/report/repor
-t_in_tex/mult-w1-eps-converted-to.pdf> <D:/учёба/CERN/report/report_in_tex
-/tops-bosons1-eps-converted-to.pdf>] [6]
-(D:\учёба\CERN\report\report_in_tex\report_Cern.aux) ) 
+[3 <./M_eff_jets.png> <./leptons-iproc.png>] [4 <./leptons-lome.png> <./leptons
+-fixed.png> <./mult-w1-eps-converted-to.pdf> <./tops-bosons1-eps-converted-to.p
+df>] [5] [6] (./report_Cern.aux) ) 
 Here is how much of TeX's memory you used:
- 3961 strings out of 493921
- 52502 string characters out of 3150556
- 112440 words of memory out of 3000000
- 7138 multiletter control sequences out of 15000+200000
- 28586 words of font info for 82 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 42i,10n,26p,1797b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
-{E:/miktex/Full_TeX/
-texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<E:/miktex/Full_TeX/texmf/fonts
-/type1/public/amsfonts/cm/cmex10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/publ
-ic/amsfonts/cm/cmmi10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts
-/cm/cmmi12.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmmi6.p
-fb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmmi8.pfb><E:/mikte
-x/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/miktex/Full_TeX/t
-exmf/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/miktex/Full_TeX/texmf/fonts/t
-ype1/public/amsfonts/cm/cmr6.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/a
-msfonts/cm/cmr8.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:
-/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1095.pfb><E:/miktex/Full
-_TeX/texmf/fonts/type1/public/cm-super/sfbx1200.pfb><E:/miktex/Full_TeX/texmf/f
-onts/type1/public/cm-super/sfbx1728.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/p
-ublic/cm-super/sfrm1095.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-sup
-er/sfrm1200.pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfrm1440.
-pfb><E:/miktex/Full_TeX/texmf/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on report_Cern.pdf (6 pages, 513020 bytes).
+ 4021 strings out of 492995
+ 54298 string characters out of 6132704
+ 117754 words of memory out of 5000000
+ 7458 multiletter control sequences out of 15000+600000
+ 28586 words of font info for 82 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,10n,27p,1238b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc
+/dvips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2017/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sf
+bx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx
+1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx17
+28.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095
+.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.p
+fb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb
+></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
+Output written on report_Cern.pdf (6 pages, 500676 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
