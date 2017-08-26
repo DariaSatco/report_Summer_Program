@@ -38,8 +38,8 @@ Supervisor: Simone Amoroso \\
 \maketitle
 
 \begin{abstract}
-The electroweak sector of the Standard Model accepts solutions which violate baryon- and lepton-number. These sphalerons are associated  with transitions between topologically different vacuum states. Sphaleron transitions can occur at hadron colliders,  and while the magnitude of their cross-section is unknown, it is expected to be enhanced with energy and multiplicity of additional gauge bosons.
-In this work we used the HERBVI generator to study the properties of sphaleron processes  at  the energies of interest for  FCC-hh colliders (14, 33, 40 and 100 TeV).  After estimating the dominant backgrounds from multi-top and W-boson production are estimated with Madgraph5\_aMC$@$NLO, a background free signal region is defined.  Upper limits at 95 \%  confidence level on the cross-section of sphaleron transitions ranging from  $2.27 \cdot 10^{-6}$ pb at 14 TeV and $1.00 \cdot 10^{-6}$ pb at 100 TeV are obtained.
+The electroweak sector of the Standard Model accepts solutions which violate baryon- and lepton-number. These sphalerons are associated  with transitions between topologically different vacuum states. Sphaleron transitions can occur at hadron colliders, and while the magnitude of their cross-section is unknown, it is expected to be enhanced with energy and multiplicity of additional gauge bosons.
+In this work we used the HERBVI generator to study the properties of sphaleron processes  at  the energies of interest for  FCC-hh colliders (14, 33, 40 and 100 TeV).  After estimating the dominant backgrounds from multi-top and W-boson production with Madgraph5\_aMC$@$NLO, a background free signal region is defined.  Upper limits at 95 \%  confidence level on the cross-section of sphaleron transitions ranging from  $2.27 \cdot 10^{-6}$ pb at 14 TeV and $1.00 \cdot 10^{-6}$ pb at 100 TeV are obtained.
 \end{abstract}
 
 \section{Introduction}
@@ -109,7 +109,7 @@ As it was mentioned in the previous section, we can control in HERBVI parton and
 \end{minipage}
 \end{figure}
 
-Another important question is how the boson multiplicity influences the generation, since there are two possible modes for it in HERBVI. First one is for a fixed number of bosons, since we don't have any theoretical prediction for sphaleron cross section, it's quite natural to use the simplest model we can. We expect a process with a huge number of produced bosons and we know the estimation of $n_B \sim 1/\alpha_W \approx 30$ ( see results on Fig.(\ref{ris:fix}) ). The instanton approach leads to an energy dependence of the boson multiplicity (\ref{boson_mult}), whereas its main idea is to use the perturbation theory for BLNV process (\ref{sphaleron_reaction}) and to calculate the cross section and other parameters in leading order in the electroweak coupling $\alpha_W$. That's why the resulting model is called LOME (leadig order matrix element) (Fig. (\ref{ris:lome})). Since the boson multiplicity increases with the collision energy, it becomes easier to distinguish signal for higher energies, because there are not any other observable processes with such a big number of leptons in the end.
+Another important question is how the boson multiplicity influences the generation, since there are two possible modes for it in HERBVI. In the first mode the average number of bosons per event is fixed. We expect a huge number of produced bosons and we know the estimation of $n_B \sim 1/\alpha_W \approx 30$ ( see results on Fig.(\ref{ris:fix}) ). The second mode is based on the instanton approach, calculating the cross-section and other parameters at leading order in the electroweak coupling $\alpha_W$. The resulting model is called LOME (leadig order matrix element) (Fig. (\ref{ris:lome})). It leads to an energy dependence of  the boson multiplicity. Since the boson multiplicity increases with the collision energy, it becomes easier to distinguish signal for higher energies, because there are not any other observable processes with such a big number of leptons in the end.
 \begin{figure}[h!]
 \begin{minipage}[h]{0.49\linewidth}
 \center{\includegraphics[width=0.85\linewidth]{leptons-lome.png}}
@@ -150,7 +150,7 @@ In table \ref{tab:upper-limit} we indicate the lepton requirements applied at di
 \begin{center}
 \begin{tabular}{c|cccc}
 \toprule
- $E$ [\text{TeV}] & cuts & Acceptance & $\sigma_{upl}$, pb & $\sigma_{sph}$, pb \cite{ellis} \\
+ $E$ [\text{TeV}] & $N_{\rm lep}$ cut & Acceptance & $\sigma_{upl}$ [pb] & $\sigma_{sph}$ [pb] \cite{ellis} \\
 \midrule
  $14$ & $6$ & $0.439$ & $2.27\cdot10^{-6}$ & $41\cdot10^{-3}$\\
 \hline $33$ & $10$ & $0.979$ & $1.08\cdot10^{-6}$ & $300$\\
